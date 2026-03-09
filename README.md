@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-50_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-38_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,12 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 10 | Claude Code workflows, agent teams, Cursor AI rules, multi-model routing, context rescue |
-| [🔧 MCP Tools](prompts/mcp-tools/) | 5 | MCP server builder, config generator, security audit, production stacks, tool chain orchestration |
-| [🤖 AI Agents](prompts/ai-agents/) | 12 | Agent architecture, MCP orchestration, agentic RAG, agent eval, handoff patterns |
-| [🧩 Context Engineering](prompts/context-engineering/) | 3 | 🆕 Context window design, codebase context extraction, dynamic context routing |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 8 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **AI project rules bootstrap** |
+| [🤖 AI Agents](prompts/ai-agents/) | 7 | Agent architecture, MCP servers, agentic RAG, **MCP tool connector generator** |
 
-> **Total: 50 free prompts** across 16 categories
+> **Total: 38 free prompts** across 14 categories
 
 ### Quick Links
 
@@ -107,34 +105,19 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Pair Programmer](prompts/meta-prompting/ai-pair-programmer.md) — Configure AI as your partner
 - [Learning Accelerator](prompts/meta-prompting/learning-accelerator.md) — Learn new tech fast
 
-#### 🔧 MCP Tools *(Updated — March 2026)*
-- [MCP Tool Chain Orchestrator](prompts/mcp-tools/mcp-tool-chain-orchestrator.md) — 🆕 Design multi-step MCP workflows across databases, APIs, browsers & filesystems
-
 #### 🎸 Vibe Coding *(Updated — March 2026)*
 - [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
 - [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) — Generate .cursor/rules for any stack
 - [Claude Code Project Workflow](prompts/vibe-coding/claude-code-workflow.md) — 🆕 AGENTS.md + task decomposition + multi-agent workflow
-- [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — Generate rules for Cursor, Claude Code, Windsurf & more from one description
-- [Multi-Model Router](prompts/vibe-coding/multi-model-router.md) — 🆕 Pick the right AI tool for each task (Claude Code vs Cursor vs Copilot vs Codex)
-- [Claude Code Agent Teams](prompts/vibe-coding/claude-code-agent-teams.md) — 🆕 Configure subagents, hooks & per-agent MCP for multi-agent workflows
-- [Context Window Rescue Kit](prompts/vibe-coding/context-window-rescue.md) — 🆕 Recover derailed AI coding sessions & compress context
+- [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — 🆕 Generate rules for Cursor, Claude Code, Windsurf & more from one description
+- [AI Project Rules Bootstrap](prompts/vibe-coding/ai-project-rules-bootstrap.md) — 🔥 Generate ALL AI config files (.cursorrules, CLAUDE.md, Copilot, AGENTS.md) in one shot
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
 - [MCP Server Setup](prompts/ai-agents/mcp-server-setup.md) — 🆕 Build Model Context Protocol servers for AI tool integration
 - [Agentic RAG Pipeline](prompts/ai-agents/agentic-rag-pipeline.md) — 🆕 Intelligent retrieval with query routing & re-ranking
-- [Multi-Agent Code Review](prompts/ai-agents/multi-agent-code-review.md) — 4-agent pipeline for automated PR reviews
-- [Agent Eval Framework](prompts/ai-agents/agent-eval-framework.md) — 🆕 Test & evaluate AI agents with structured scenarios
-- [AGENTS.md Generator](prompts/ai-agents/agents-md-generator.md) — 🆕 Generate project rules for Claude Code from any codebase
-- [MCP Multi-Server Orchestrator](prompts/ai-agents/mcp-multi-server-orchestrator.md) — 🆕 Design production-ready multi-server MCP configs for any stack
-- [Agent Handoff Patterns](prompts/ai-agents/agent-handoff-patterns.md) — 🆕 Design reliable agent-to-agent handoffs for multi-agent systems
-- [AI Code Review Agent Pipeline](prompts/ai-agents/ai-code-review-agent-pipeline.md) — 🆕 Multi-agent code review (bugs, security, architecture) in one pass
-- [RAG System Architect](prompts/ai-agents/rag-system-architect.md) — 🆕 Design production-ready RAG pipelines with the right chunking, embeddings & retrieval
-
-#### 🧩 Context Engineering *(NEW — March 2026)*
-- [Context Window Architect](prompts/context-engineering/context-window-architect.md) — 🆕 Design optimal context layouts for any LLM task
-- [Codebase Context Builder](prompts/context-engineering/codebase-context-builder.md) — 🆕 Extract the right code context for AI coding agents
-- [Dynamic Context Router](prompts/context-engineering/dynamic-context-router.md) — 🆕 Route and prioritize context by task type automatically
+- [Multi-Agent Code Review](prompts/ai-agents/multi-agent-code-review.md) — 🆕 4-agent pipeline for automated PR reviews
+- [MCP Tool Connector](prompts/ai-agents/mcp-tool-connector.md) — 🔥 Generate a complete MCP server to connect AI to any API (97M+ SDK downloads)
 
 ---
 
@@ -144,8 +127,8 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 50 | 100+ |
-| **Categories** | 16 | 20+ |
+| **Prompts** | 38 | 100+ |
+| **Categories** | 14 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
 | **IDE integration** | — | ✅ Snippets included |
