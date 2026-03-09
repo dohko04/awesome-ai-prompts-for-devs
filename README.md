@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-47_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-50_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
