@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-39_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-41_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,10 +46,11 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 8 | Claude Code workflows, Cursor AI rules, multi-model routing, AGENTS.md generator |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 9 | Claude Code workflows, agent teams, Cursor AI rules, multi-model routing, AGENTS.md generator |
+| [🔧 MCP Tools](prompts/mcp-tools/) | 4 | MCP server builder, config generator, security audit, production stacks |
 | [🤖 AI Agents](prompts/ai-agents/) | 8 | Agent architecture, MCP servers, agentic RAG, agent eval, project rules generator |
 
-> **Total: 39 free prompts** across 14 categories
+> **Total: 41 free prompts** across 14 categories
 
 ### Quick Links
 
