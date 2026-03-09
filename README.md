@@ -40,18 +40,18 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
 | [🗃️ Database & SQL](prompts/database-sql/) | 3 | Query optimization, schema design, migrations |
-| [⚙️ DevOps & CI/CD](prompts/devops/) | 3 | Dockerfiles, CI/CD pipelines, **🆕 agentic CI/CD** |
+| [⚙️ DevOps & CI/CD](prompts/devops/) | 4 | Dockerfiles, CI/CD pipelines, **🆕 agentic CI/CD, AI git workflows** |
 | [🔌 API Design](prompts/api-design/) | 2 | REST API design, third-party integrations |
 | [📊 Data Engineering](prompts/data-engineering/) | 2 | ETL pipelines, data validation |
 | [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
-| [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
-| [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 18 | Claude Code workflows, Cursor AI rules, **🆕 spec-driven dev, Claude Code power user** |
-| [🤖 AI Agents](prompts/ai-agents/) | 18 | Agent architecture, MCP servers, **🆕 multi-agent orchestrator, agentic code review** |
-| [🎯 Context Engineering](prompts/context-engineering/) | 4 | Context window optimization, **🆕 context budget planner** |
+| [🔒 Security](prompts/security/) | 3 | Security audits, secrets checking, **🆕 agent sandbox security** |
+| [🎯 Meta-Prompting](prompts/meta-prompting/) | 4 | Prompt improvement, pair programming, **🆕 LLM cost optimization** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 21 | Claude Code workflows, Cursor AI rules, **🆕 AI convenience loop, Codex CLI agent, LLM-friendly code** |
+| [🤖 AI Agents](prompts/ai-agents/) | 19 | Agent architecture, MCP servers, **🆕 parallel agent task delegator, multi-agent orchestrator** |
+| [🎯 Context Engineering](prompts/context-engineering/) | 5 | Context window optimization, **🆕 AI codebase onboarding** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
-> **Total: 64 free prompts** across 16 categories
+> **Total: 68 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -123,6 +123,9 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Code Guardrails Setup](prompts/vibe-coding/ai-code-guardrails-setup.md) — 🆕 Pre-commit hooks, ESLint rules & CI checks for AI-generated code quality
 - [Spec-Driven AI Development](prompts/vibe-coding/spec-driven-development.md) — 🆕 Stop vibe coding, start spec coding — structured specs for first-try implementations
 - [Claude Code Power User](prompts/vibe-coding/claude-code-power-user.md) — 🆕 Advanced workflows for the #1 AI coding agent (CLAUDE.md optimization, multi-file orchestration)
+- [AI Convenience Loop Stack Optimizer](prompts/vibe-coding/ai-convenience-loop-stack.md) — 🆕 Optimize your tech stack for maximum AI coding productivity
+- [Codex CLI Agent Workflow](prompts/vibe-coding/codex-cli-agent-workflow.md) — 🆕 Design multi-step workflows for CLI-based AI coding agents
+- [LLM-Friendly Code Patterns](prompts/vibe-coding/llm-friendly-code-patterns.md) — 🆕 Refactor code so AI tools understand and modify it correctly
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -143,6 +146,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
 - [LLM Context Budget Optimizer](prompts/context-engineering/llm-context-budget-optimizer.md) — 🆕 Smart token budgeting — stop dumping files, start engineering context
 - [Context Budget Planner](prompts/context-engineering/context-budget-planner.md) — 🆕 Systematic token allocation — fit more signal into your AI's context window
+- [AI-Powered Codebase Onboarding](prompts/context-engineering/ai-codebase-onboarding.md) — 🆕 Get up to speed on any codebase fast using AI as your guide
 
 #### 🖥️ Terminal Agents *(New — March 2026)*
 - [Terminal Agent Power Workflow](prompts/vibe-coding/terminal-agent-power-workflow.md) — 🔥 Shell aliases, multi-agent coordination & safety configs for Claude Code/Codex CLI

@@ -10,6 +10,9 @@ Prompts optimized for AI-assisted coding tools like **Cursor**, **Claude Code**,
 | [AI Coding Session Kickoff](coding-session-kickoff.md) | Start any AI coding session with the right context and constraints |
 | [Multi-Tool AI Workflow](multi-tool-ai-workflow.md) | Set up an efficient workflow across Claude Code, Cursor, Copilot & Codex |
 | [Claude Code + Codex Power Setup](codex-claude-code-power-setup.md) | Configure the two hottest AI coding tools for maximum output |
+| [AI Convenience Loop Stack Optimizer](ai-convenience-loop-stack.md) | Optimize your stack for maximum AI-assisted productivity |
+| [Codex CLI Agent Workflow Designer](codex-cli-agent-workflow.md) | Design multi-step workflows for CLI-based AI coding agents |
+| [LLM-Friendly Code Pattern Refactorer](llm-friendly-code-patterns.md) | Refactor code so AI tools understand and extend it correctly |
 
 ## Why This Matters
 

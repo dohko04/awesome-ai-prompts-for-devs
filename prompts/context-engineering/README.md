@@ -9,6 +9,7 @@
 | [Context Window Architect](context-window-architect.md) | Design optimal context layouts for any LLM task |
 | [Codebase Context Builder](codebase-context-builder.md) | Extract and structure the right code context for AI coding agents |
 | [Dynamic Context Router](dynamic-context-router.md) | Route and prioritize context dynamically based on task type |
+| [AI-Powered Codebase Onboarding](ai-codebase-onboarding.md) | Get up to speed on any codebase fast using AI as your onboarding guide |
 
 ## Why Context Engineering?
 
