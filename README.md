@@ -136,10 +136,13 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Agent Error Recovery](prompts/ai-agents/ai-agent-error-recovery.md) — 🆕 Self-healing patterns for production AI agents (retries, fallbacks, circuit breakers)
 - [Agent Production Hardening](prompts/ai-agents/ai-agent-production-hardening.md) — 🆕 Complete checklist to take agents from demo to production (reliability, cost, observability)
 - [Local LLM Dev Environment](prompts/ai-agents/local-llm-dev-environment.md) — 🆕 Complete Ollama setup with model routing, IDE integration & hybrid cloud fallback
+- [Multi-Agent Orchestrator](prompts/ai-agents/multi-agent-orchestrator.md) — 🆕 Coordinate Claude Code + Cursor + Copilot without chaos (2-4 agents simultaneously)
+- [Agentic Code Review Pipeline](prompts/ai-agents/agentic-code-review-pipeline.md) — 🆕 4-pass AI review pipeline that catches issues before human reviewers
 
 #### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
 - [LLM Context Budget Optimizer](prompts/context-engineering/llm-context-budget-optimizer.md) — 🆕 Smart token budgeting — stop dumping files, start engineering context
+- [Context Budget Planner](prompts/context-engineering/context-budget-planner.md) — 🆕 Systematic token allocation — fit more signal into your AI's context window
 
 #### 🖥️ Terminal Agents *(New — March 2026)*
 - [Terminal Agent Power Workflow](prompts/vibe-coding/terminal-agent-power-workflow.md) — 🔥 Shell aliases, multi-agent coordination & safety configs for Claude Code/Codex CLI
