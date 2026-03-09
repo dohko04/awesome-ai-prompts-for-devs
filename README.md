@@ -46,11 +46,11 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 9 | Claude Code workflows, agent teams, Cursor AI rules, multi-model routing, AGENTS.md generator |
-| [🔧 MCP Tools](prompts/mcp-tools/) | 4 | MCP server builder, config generator, security audit, production stacks |
-| [🤖 AI Agents](prompts/ai-agents/) | 9 | Agent architecture, MCP orchestration, agentic RAG, agent eval, project rules generator |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 10 | Claude Code workflows, agent teams, Cursor AI rules, multi-model routing, context rescue |
+| [🔧 MCP Tools](prompts/mcp-tools/) | 5 | MCP server builder, config generator, security audit, production stacks, tool chain orchestration |
+| [🤖 AI Agents](prompts/ai-agents/) | 12 | Agent architecture, MCP orchestration, agentic RAG, agent eval, handoff patterns |
 
-> **Total: 42 free prompts** across 14 categories
+> **Total: 47 free prompts** across 15 categories
 
 ### Quick Links
 
@@ -106,6 +106,9 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Pair Programmer](prompts/meta-prompting/ai-pair-programmer.md) — Configure AI as your partner
 - [Learning Accelerator](prompts/meta-prompting/learning-accelerator.md) — Learn new tech fast
 
+#### 🔧 MCP Tools *(Updated — March 2026)*
+- [MCP Tool Chain Orchestrator](prompts/mcp-tools/mcp-tool-chain-orchestrator.md) — 🆕 Design multi-step MCP workflows across databases, APIs, browsers & filesystems
+
 #### 🎸 Vibe Coding *(Updated — March 2026)*
 - [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
 - [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) — Generate .cursor/rules for any stack
@@ -113,6 +116,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — Generate rules for Cursor, Claude Code, Windsurf & more from one description
 - [Multi-Model Router](prompts/vibe-coding/multi-model-router.md) — 🆕 Pick the right AI tool for each task (Claude Code vs Cursor vs Copilot vs Codex)
 - [Claude Code Agent Teams](prompts/vibe-coding/claude-code-agent-teams.md) — 🆕 Configure subagents, hooks & per-agent MCP for multi-agent workflows
+- [Context Window Rescue Kit](prompts/vibe-coding/context-window-rescue.md) — 🆕 Recover derailed AI coding sessions & compress context
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -122,6 +126,9 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Agent Eval Framework](prompts/ai-agents/agent-eval-framework.md) — 🆕 Test & evaluate AI agents with structured scenarios
 - [AGENTS.md Generator](prompts/ai-agents/agents-md-generator.md) — 🆕 Generate project rules for Claude Code from any codebase
 - [MCP Multi-Server Orchestrator](prompts/ai-agents/mcp-multi-server-orchestrator.md) — 🆕 Design production-ready multi-server MCP configs for any stack
+- [Agent Handoff Patterns](prompts/ai-agents/agent-handoff-patterns.md) — 🆕 Design reliable agent-to-agent handoffs for multi-agent systems
+- [AI Code Review Agent Pipeline](prompts/ai-agents/ai-code-review-agent-pipeline.md) — 🆕 Multi-agent code review (bugs, security, architecture) in one pass
+- [RAG System Architect](prompts/ai-agents/rag-system-architect.md) — 🆕 Design production-ready RAG pipelines with the right chunking, embeddings & retrieval
 
 ---
 
