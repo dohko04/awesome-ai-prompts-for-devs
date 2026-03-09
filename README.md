@@ -37,7 +37,7 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🐛 Debugging](prompts/debugging/) | 3 | Root-cause analysis, error decoding, log analysis |
 | [🔍 Code Review](prompts/code-review/) | 2 | Senior-level reviews, PR descriptions |
 | [🏗️ Architecture](prompts/architecture/) | 2 | System design, tech stack decisions |
-| [🧪 Testing](prompts/testing/) | 2 | Test generation, edge case discovery |
+| [🧪 Testing](prompts/testing/) | 3 | Test generation, edge case discovery, LLM output evaluation |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
 | [🗃️ Database & SQL](prompts/database-sql/) | 3 | Query optimization, schema design, migrations |
 | [⚙️ DevOps & CI/CD](prompts/devops/) | 2 | Dockerfiles, CI/CD pipelines |
@@ -46,10 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 6 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, multi-model session planning |
-| [🤖 AI Agents](prompts/ai-agents/) | 5 | Agent architecture, MCP servers, agentic RAG, workflow debugging |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 7 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, universal AI rules generator |
+| [🤖 AI Agents](prompts/ai-agents/) | 6 | Agent architecture, MCP servers, agentic RAG, multi-agent code review |
 
-> **Total: 33 free prompts** across 14 categories
+> **Total: 36 free prompts** across 14 categories
 
 ### Quick Links
 
@@ -69,6 +69,7 @@ Each category has its own folder with individual prompt files — easy to browse
 #### 🧪 Testing
 - [Test Writer](prompts/testing/test-writer.md) — Generate comprehensive tests
 - [Edge Case Finder](prompts/testing/edge-case-finder.md) — Discover what you're missing
+- [LLM Output Evaluator](prompts/testing/llm-output-evaluator.md) — 🆕 Benchmark & evaluate LLM outputs systematically
 
 #### 📝 Documentation
 - [README Generator](prompts/documentation/readme-generator.md) — Professional project READMEs
@@ -108,11 +109,13 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
 - [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) — Generate .cursor/rules for any stack
 - [Claude Code Project Workflow](prompts/vibe-coding/claude-code-workflow.md) — 🆕 AGENTS.md + task decomposition + multi-agent workflow
+- [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — 🆕 Generate rules for Cursor, Claude Code, Windsurf & more from one description
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
 - [MCP Server Setup](prompts/ai-agents/mcp-server-setup.md) — 🆕 Build Model Context Protocol servers for AI tool integration
 - [Agentic RAG Pipeline](prompts/ai-agents/agentic-rag-pipeline.md) — 🆕 Intelligent retrieval with query routing & re-ranking
+- [Multi-Agent Code Review](prompts/ai-agents/multi-agent-code-review.md) — 🆕 4-agent pipeline for automated PR reviews
 
 ---
 
@@ -122,7 +125,7 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 30 | 100+ |
+| **Prompts** | 36 | 100+ |
 | **Categories** | 14 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
