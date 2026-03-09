@@ -46,10 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 14 | Claude Code workflows, Cursor AI rules, **🆕 multi-tool orchestrator, TypeScript AI loop** |
-| [🤖 AI Agents](prompts/ai-agents/) | 13 | Agent architecture, MCP servers, **🆕 production hardening checklist** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 15 | Claude Code workflows, Cursor AI rules, **🆕 vibe coding project scaffolder** |
+| [🤖 AI Agents](prompts/ai-agents/) | 15 | Agent architecture, MCP servers, **🆕 Claude Cowork delegation, agentic CI/CD** |
 | [🎯 Context Engineering](prompts/context-engineering/) | 3 | Context window optimization, **🆕 LLM context budget optimizer** |
-| [🔧 MCP Tools](prompts/mcp-tools/) | 7 | MCP server builder, security audit, **🆕 MCP server testing & validation** |
+| [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
 > **Total: 55 free prompts** across 16 categories
 
