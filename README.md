@@ -87,6 +87,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Dockerfile Builder](prompts/devops/dockerfile-builder.md) — Production-ready Docker setups
 - [CI/CD Pipeline Designer](prompts/devops/cicd-pipeline-designer.md) — Automated pipelines
 - [Agentic CI/CD Pipeline](prompts/devops/agentic-cicd-pipeline.md) — 🆕 AI agents for auto code review, testing, security & deployment in your pipeline
+- [AI Git Workflow Automator](prompts/devops/ai-git-workflow-automator.md) — 🆕 Git branching, commits & PR automation for AI-assisted development
 
 #### 🔌 API Design
 - [REST API Designer](prompts/api-design/rest-api-designer.md) — Clean REST API design
@@ -104,11 +105,13 @@ Each category has its own folder with individual prompt files — easy to browse
 #### 🔒 Security
 - [Security Auditor](prompts/security/security-auditor.md) — Find vulnerabilities
 - [Secrets Checker](prompts/security/secrets-checker.md) — Check for leaked secrets
+- [Agent Sandbox Security Auditor](prompts/security/agent-sandbox-security-auditor.md) — 🆕 Audit AI agent permissions, sandboxing & secrets exposure
 
 #### 🎯 Meta-Prompting
 - [Prompt Improver](prompts/meta-prompting/prompt-improver.md) — Make prompts more effective
 - [AI Pair Programmer](prompts/meta-prompting/ai-pair-programmer.md) — Configure AI as your partner
 - [Learning Accelerator](prompts/meta-prompting/learning-accelerator.md) — Learn new tech fast
+- [LLM Cost Optimizer](prompts/meta-prompting/llm-cost-optimizer.md) — 🆕 Optimize AI spend across models & tools (save 40-60%)
 
 #### 🎸 Vibe Coding *(Updated — March 2026)*
 - [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
@@ -141,6 +144,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Local LLM Dev Environment](prompts/ai-agents/local-llm-dev-environment.md) — 🆕 Complete Ollama setup with model routing, IDE integration & hybrid cloud fallback
 - [Multi-Agent Orchestrator](prompts/ai-agents/multi-agent-orchestrator.md) — 🆕 Coordinate Claude Code + Cursor + Copilot without chaos (2-4 agents simultaneously)
 - [Agentic Code Review Pipeline](prompts/ai-agents/agentic-code-review-pipeline.md) — 🆕 4-pass AI review pipeline that catches issues before human reviewers
+- [Parallel Agent Task Delegator](prompts/ai-agents/parallel-agent-task-delegator.md) — 🆕 Decompose features into parallel tasks for multiple coding agents (Codex App style)
 
 #### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
