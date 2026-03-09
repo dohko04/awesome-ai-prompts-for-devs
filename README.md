@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-27_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-30_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,8 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 2 | Claude Code workflows, Cursor AI rules |
+| [🤖 AI Agents](prompts/ai-agents/) | 1 | Agent architecture design, tool orchestration |
 
-> **Total: 27 free prompts** across 12 categories
+> **Total: 30 free prompts** across 14 categories
 
 ### Quick Links
 
@@ -102,6 +104,13 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Pair Programmer](prompts/meta-prompting/ai-pair-programmer.md) — Configure AI as your partner
 - [Learning Accelerator](prompts/meta-prompting/learning-accelerator.md) — Learn new tech fast
 
+#### 🎸 Vibe Coding *(NEW — March 2026)*
+- [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
+- [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) — Generate .cursor/rules for any stack
+
+#### 🤖 AI Agents *(NEW — March 2026)*
+- [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
+
 ---
 
 ## 📦 Free vs Full Toolkit
@@ -110,8 +119,8 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 27 | 100+ |
-| **Categories** | 12 | 15 |
+| **Prompts** | 30 | 100+ |
+| **Categories** | 14 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
 | **IDE integration** | — | ✅ Snippets included |
