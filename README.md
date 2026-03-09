@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-41_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-47_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,11 +46,12 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 10 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **🆕 full-stack scaffolder** |
-| [🤖 AI Agents](prompts/ai-agents/) | 10 | Agent architecture, MCP servers, agentic RAG, **🆕 agent memory system designer** |
-| [🎯 Context Engineering](prompts/context-engineering/) | 2 | Context window optimization, **🆕 context engineering optimizer** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 12 | Claude Code workflows, Cursor AI rules, **🆕 AI coding agent router** |
+| [🤖 AI Agents](prompts/ai-agents/) | 12 | Agent architecture, MCP servers, **🆕 agent teams task decomposer** |
+| [🎯 Context Engineering](prompts/context-engineering/) | 3 | Context window optimization, **🆕 LLM context budget optimizer** |
+| [🔧 MCP Tools](prompts/mcp-tools/) | 6 | MCP server builder, security audit, **🆕 MCP+RAG integration pipeline** |
 
-> **Total: 44 free prompts** across 15 categories
+> **Total: 50 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -124,9 +125,14 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Terminal Agent Pipeline](prompts/ai-agents/terminal-agent-pipeline.md) — 🆕 Design autonomous pipelines with Claude Code, Codex CLI & Aider
 - [Multi-Agent Feature Factory](prompts/ai-agents/multi-agent-feature-factory.md) — 🆕 Spec-to-production with coordinated research→design→implement→validate agents
 - [Agent Memory System Designer](prompts/ai-agents/agent-memory-system-designer.md) — 🔥 Design persistent memory for autonomous agents (the #1 missing piece in 2026)
+- [Agent Error Recovery](prompts/ai-agents/ai-agent-error-recovery.md) — 🆕 Self-healing patterns for production AI agents (retries, fallbacks, circuit breakers)
 
-#### 🎯 Context Engineering *(New — March 2026)*
+#### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
+- [LLM Context Budget Optimizer](prompts/context-engineering/llm-context-budget-optimizer.md) — 🆕 Smart token budgeting — stop dumping files, start engineering context
+
+#### 🖥️ Terminal Agents *(New — March 2026)*
+- [Terminal Agent Power Workflow](prompts/vibe-coding/terminal-agent-power-workflow.md) — 🔥 Shell aliases, multi-agent coordination & safety configs for Claude Code/Codex CLI
 
 ---
 
@@ -136,7 +142,7 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 44 | 100+ |
+| **Prompts** | 47 | 100+ |
 | **Categories** | 15 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
