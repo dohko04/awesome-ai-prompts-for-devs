@@ -46,10 +46,11 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 9 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **TypeScript+AI convenience loop** |
-| [🤖 AI Agents](prompts/ai-agents/) | 9 | Agent architecture, MCP servers, agentic RAG, **multi-agent feature factory**, **terminal agent pipelines** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 10 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **🆕 full-stack scaffolder** |
+| [🤖 AI Agents](prompts/ai-agents/) | 10 | Agent architecture, MCP servers, agentic RAG, **🆕 agent memory system designer** |
+| [🎯 Context Engineering](prompts/context-engineering/) | 2 | Context window optimization, **🆕 context engineering optimizer** |
 
-> **Total: 41 free prompts** across 14 categories
+> **Total: 44 free prompts** across 15 categories
 
 ### Quick Links
 
@@ -112,6 +113,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — 🆕 Generate rules for Cursor, Claude Code, Windsurf & more from one description
 - [AI Project Rules Bootstrap](prompts/vibe-coding/ai-project-rules-bootstrap.md) — 🔥 Generate ALL AI config files (.cursorrules, CLAUDE.md, Copilot, AGENTS.md) in one shot
 - [TypeScript+AI Convenience Loop](prompts/vibe-coding/typescript-ai-convenience-loop.md) — 🆕 Optimize your codebase for the TS+AI feedback loop driving GitHub's #1 language
+- [Vibe Coding Full-Stack Scaffolder](prompts/vibe-coding/vibe-coding-fullstack-scaffolder.md) — 🔥 Go from idea to deployed app using natural language + AI tools
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -121,6 +123,10 @@ Each category has its own folder with individual prompt files — easy to browse
 - [MCP Tool Connector](prompts/ai-agents/mcp-tool-connector.md) — 🔥 Generate a complete MCP server to connect AI to any API (97M+ SDK downloads)
 - [Terminal Agent Pipeline](prompts/ai-agents/terminal-agent-pipeline.md) — 🆕 Design autonomous pipelines with Claude Code, Codex CLI & Aider
 - [Multi-Agent Feature Factory](prompts/ai-agents/multi-agent-feature-factory.md) — 🆕 Spec-to-production with coordinated research→design→implement→validate agents
+- [Agent Memory System Designer](prompts/ai-agents/agent-memory-system-designer.md) — 🔥 Design persistent memory for autonomous agents (the #1 missing piece in 2026)
+
+#### 🎯 Context Engineering *(New — March 2026)*
+- [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
 
 ---
 
@@ -130,8 +136,8 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 41 | 100+ |
-| **Categories** | 14 | 18+ |
+| **Prompts** | 44 | 100+ |
+| **Categories** | 15 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
 | **IDE integration** | — | ✅ Snippets included |
