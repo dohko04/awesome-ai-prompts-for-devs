@@ -8,6 +8,8 @@ Prompts optimized for AI-assisted coding tools like **Cursor**, **Claude Code**,
 |--------|-------------|
 | [Cursor Rules Generator](cursor-rules-generator.md) | Generate project-specific `.cursorrules` files for better AI context |
 | [AI Coding Session Kickoff](coding-session-kickoff.md) | Start any AI coding session with the right context and constraints |
+| [Multi-Tool AI Workflow](multi-tool-ai-workflow.md) | Set up an efficient workflow across Claude Code, Cursor, Copilot & Codex |
+| [Claude Code + Codex Power Setup](codex-claude-code-power-setup.md) | Configure the two hottest AI coding tools for maximum output |
 
 ## Why This Matters
 
