@@ -37,7 +37,7 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🐛 Debugging](prompts/debugging/) | 3 | Root-cause analysis, error decoding, log analysis |
 | [🔍 Code Review](prompts/code-review/) | 2 | Senior-level reviews, PR descriptions |
 | [🏗️ Architecture](prompts/architecture/) | 2 | System design, tech stack decisions |
-| [🧪 Testing](prompts/testing/) | 3 | Test generation, edge case discovery, LLM output evaluation |
+| [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
 | [🗃️ Database & SQL](prompts/database-sql/) | 3 | Query optimization, schema design, migrations |
 | [⚙️ DevOps & CI/CD](prompts/devops/) | 2 | Dockerfiles, CI/CD pipelines |
@@ -46,12 +46,12 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 12 | Claude Code workflows, Cursor AI rules, **🆕 AI coding agent router** |
-| [🤖 AI Agents](prompts/ai-agents/) | 12 | Agent architecture, MCP servers, **🆕 agent teams task decomposer** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 14 | Claude Code workflows, Cursor AI rules, **🆕 multi-tool orchestrator, TypeScript AI loop** |
+| [🤖 AI Agents](prompts/ai-agents/) | 13 | Agent architecture, MCP servers, **🆕 production hardening checklist** |
 | [🎯 Context Engineering](prompts/context-engineering/) | 3 | Context window optimization, **🆕 LLM context budget optimizer** |
-| [🔧 MCP Tools](prompts/mcp-tools/) | 6 | MCP server builder, security audit, **🆕 MCP+RAG integration pipeline** |
+| [🔧 MCP Tools](prompts/mcp-tools/) | 7 | MCP server builder, security audit, **🆕 MCP server testing & validation** |
 
-> **Total: 50 free prompts** across 16 categories
+> **Total: 55 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -72,6 +72,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Test Writer](prompts/testing/test-writer.md) — Generate comprehensive tests
 - [Edge Case Finder](prompts/testing/edge-case-finder.md) — Discover what you're missing
 - [LLM Output Evaluator](prompts/testing/llm-output-evaluator.md) — 🆕 Benchmark & evaluate LLM outputs systematically
+- [LLM Eval & Guardrails Pipeline](prompts/testing/llm-eval-guardrails-pipeline.md) — 🆕 Complete eval + guardrails pipeline for production LLM features
 
 #### 📝 Documentation
 - [README Generator](prompts/documentation/readme-generator.md) — Professional project READMEs
@@ -114,6 +115,8 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — 🆕 Generate rules for Cursor, Claude Code, Windsurf & more from one description
 - [AI Project Rules Bootstrap](prompts/vibe-coding/ai-project-rules-bootstrap.md) — 🔥 Generate ALL AI config files (.cursorrules, CLAUDE.md, Copilot, AGENTS.md) in one shot
 - [TypeScript+AI Convenience Loop](prompts/vibe-coding/typescript-ai-convenience-loop.md) — 🆕 Optimize your codebase for the TS+AI feedback loop driving GitHub's #1 language
+- [Multi-Tool AI Coding Orchestrator](prompts/vibe-coding/multi-tool-ai-coding-orchestrator.md) — 🆕 Optimize your workflow across Cursor, Claude Code, Copilot & more
+- [TypeScript AI Convenience Loop](prompts/vibe-coding/typescript-ai-convenience-loop.md) — 🆕 Set up TS projects so AI tools work 10x better (the GitHub #1 language trick)
 - [Vibe Coding Full-Stack Scaffolder](prompts/vibe-coding/vibe-coding-fullstack-scaffolder.md) — 🔥 Go from idea to deployed app using natural language + AI tools
 
 #### 🤖 AI Agents *(Updated — March 2026)*
@@ -126,6 +129,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Multi-Agent Feature Factory](prompts/ai-agents/multi-agent-feature-factory.md) — 🆕 Spec-to-production with coordinated research→design→implement→validate agents
 - [Agent Memory System Designer](prompts/ai-agents/agent-memory-system-designer.md) — 🔥 Design persistent memory for autonomous agents (the #1 missing piece in 2026)
 - [Agent Error Recovery](prompts/ai-agents/ai-agent-error-recovery.md) — 🆕 Self-healing patterns for production AI agents (retries, fallbacks, circuit breakers)
+- [Agent Production Hardening](prompts/ai-agents/ai-agent-production-hardening.md) — 🆕 Complete checklist to take agents from demo to production (reliability, cost, observability)
 
 #### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs

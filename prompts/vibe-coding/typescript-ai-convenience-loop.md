@@ -1,70 +1,79 @@
-# 🔄 TypeScript + AI Convenience Loop Optimizer
+# 🔄 TypeScript AI Convenience Loop Setup
 
-> Leverage the TypeScript-AI feedback loop that's making TS the #1 language on GitHub in 2026 — types give AI assistants the guardrails they need to generate better code.
+TypeScript surged to #1 on GitHub because AI coding tools work dramatically better with static types. This prompt sets up your TypeScript project to maximize AI coding assistance — creating the "convenience loop" where types help the AI, and the AI helps you write better types.
 
 ## The Prompt
 
 ```
-You are a TypeScript-AI Synergy Expert. Your job is to optimize a codebase so that
-AI coding assistants (Copilot, Cursor, Claude Code) generate significantly better
-code suggestions.
+You are a TypeScript expert who optimizes projects for AI-assisted development. I want to set up my project so that AI coding tools (Cursor, Copilot, Claude Code) can be maximally effective.
 
-The core insight: **Static types are guardrails for LLMs.** The more explicit your
-type system, the better AI understands your intent and the fewer hallucinations you get.
-This creates a "convenience loop" — better types → better AI output → faster development
-→ more TypeScript adoption.
+My project:
+- **Type:** {PROJECT_TYPE: e.g., Next.js app, API server, CLI tool, library}
+- **Runtime:** {RUNTIME: Node.js | Bun | Deno}
+- **Current state:** {STATE: new project | migrating from JS | existing TS project}
 
-Given my codebase or module, analyze and improve it for AI-assisted development:
+Set up the AI-optimized TypeScript convenience loop:
 
-## 1. Type Enrichment
-- Replace `any`, `unknown`, and loose types with precise interfaces
-- Add branded types for domain concepts (UserId, Email, Currency)
-- Use discriminated unions instead of optional fields
-- Add JSDoc comments on complex types explaining business rules
+### 1. TypeScript Config for AI
+Generate a `tsconfig.json` that maximizes type information for AI tools:
+- Strict mode settings that help AI understand intent
+- Path aliases that make imports readable
+- Which strict flags matter most for AI assistance and why
+- Recommended `include`/`exclude` patterns
 
-## 2. AI-Friendly Patterns
-- Export explicit interfaces (not inferred types) so AI can reference them
-- Use Zod schemas as single source of truth for runtime + compile-time types
-- Create barrel files (index.ts) with clear public API surface
-- Add `@example` JSDoc tags — AI uses these as few-shot examples
+### 2. Type Architecture
+Design a type structure that gives AI maximum context:
+- Where to put shared types (`types/`, co-located, or barrel exports?)
+- Branded types for domain concepts (UserId, Email, etc.)
+- Zod schemas that serve as BOTH runtime validation AND static types
+- Discriminated unions for state machines and API responses
+- Template literal types for route/event patterns
 
-## 3. Context File Generation
-- Generate a `CODEBASE_CONTEXT.md` summarizing:
-  - Key types and their relationships
-  - Business domain glossary
-  - Common patterns used in the project
-  - File/folder conventions
-- Create `.cursorrules` or `AGENTS.md` with project-specific instructions
+Show concrete examples for each pattern.
 
-## 4. AI Guardrail Config
-- Strict tsconfig settings that prevent AI from generating loose code
-- ESLint rules that catch common AI mistakes
-- Pre-commit hooks that validate AI-generated code
+### 3. AI-Friendly Code Patterns
+For each pattern, show before (AI struggles) and after (AI excels):
+- Function signatures that give AI enough context to implement the body
+- Error handling with typed errors (Result pattern or Effect)
+- API client with fully typed requests/responses
+- Database queries with type-safe results (Drizzle/Prisma)
+- Event handlers with typed payloads
 
-## Output Format
-For each file analyzed:
-- Current AI-readability score (1-10)
-- Specific improvements with code examples
-- Expected impact on AI suggestion quality
+### 4. Documentation as AI Context
+- JSDoc patterns that help AI tools (which tags matter?)
+- `@example` annotations that serve as implicit tests
+- Interface comments that guide AI implementation
+- `@see` references that help AI find related code
 
-Then generate the context files.
+### 5. Project Files for AI Tools
+Generate these files optimized for AI coding:
+- `AGENTS.md` — project context for Claude Code
+- `.cursorrules` — coding standards for Cursor
+- Type barrel files that give AI one-stop-shop imports
+
+### 6. Validation & Testing Types
+- Zod schemas → TypeScript types → test factories (one source of truth)
+- Type-level tests with `expectTypeOf` patterns
+- How to test that AI-generated code matches your type contracts
+
+Output everything as files I can add to my project right now.
 ```
 
-## When to Use
+## Example Usage
 
-- Migrating a JS project to TS with AI assistance in mind
-- Optimizing your codebase for better Copilot/Cursor suggestions
-- Setting up a new TypeScript project that's "AI-native"
-- Reducing hallucinations in AI-generated code
+```
+Project: Next.js 15 SaaS with tRPC API, Drizzle ORM, Stripe billing
+Runtime: Node.js
+State: existing TS project, but types are loose and AI keeps hallucinating wrong APIs
+```
 
-## Why This Matters (March 2026)
+## Tips
 
-GitHub's Octoverse data shows TypeScript surged 66% to become the #1 language on GitHub, driven largely by the "convenience loop" — AI tools work dramatically better with typed code. This prompt helps you ride that wave.
-
-## Pro Tip
-
-This free prompt covers the analysis framework. The **[AI Dev Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app)** includes complete tsconfig presets, ESLint rule packs, pre-built Zod schema generators, and `AGENTS.md` templates specifically tuned for maximum AI coding performance across Cursor, Claude Code, and Copilot.
+- The tighter your types, the better AI coding tools perform — this is the core loop.
+- Zod + TypeScript inference = single source of truth for validation AND types.
+- Branded types prevent AI from mixing up `userId` and `teamId` (a common AI mistake).
+- Keep a `types/` barrel file — AI tools load it to understand your domain model.
 
 ---
 
-*Part of [Awesome AI Prompts for Devs](https://github.com/dohko04/awesome-ai-prompts-for-devs) by Dohko*
+> 🚀 **Get the full TypeScript + AI setup kit.** The [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) includes production-ready tsconfig templates, Zod schema patterns, AI-optimized project scaffolds, and type architecture guides for every major framework.
