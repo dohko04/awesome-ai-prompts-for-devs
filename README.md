@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-38_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-41_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,10 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 8 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **AI project rules bootstrap** |
-| [🤖 AI Agents](prompts/ai-agents/) | 7 | Agent architecture, MCP servers, agentic RAG, **MCP tool connector generator** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 9 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, **TypeScript+AI convenience loop** |
+| [🤖 AI Agents](prompts/ai-agents/) | 9 | Agent architecture, MCP servers, agentic RAG, **multi-agent feature factory**, **terminal agent pipelines** |
 
-> **Total: 38 free prompts** across 14 categories
+> **Total: 41 free prompts** across 14 categories
 
 ### Quick Links
 
@@ -111,6 +111,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Claude Code Project Workflow](prompts/vibe-coding/claude-code-workflow.md) — 🆕 AGENTS.md + task decomposition + multi-agent workflow
 - [Universal AI Rules Generator](prompts/vibe-coding/universal-ai-rules-generator.md) — 🆕 Generate rules for Cursor, Claude Code, Windsurf & more from one description
 - [AI Project Rules Bootstrap](prompts/vibe-coding/ai-project-rules-bootstrap.md) — 🔥 Generate ALL AI config files (.cursorrules, CLAUDE.md, Copilot, AGENTS.md) in one shot
+- [TypeScript+AI Convenience Loop](prompts/vibe-coding/typescript-ai-convenience-loop.md) — 🆕 Optimize your codebase for the TS+AI feedback loop driving GitHub's #1 language
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -118,6 +119,8 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Agentic RAG Pipeline](prompts/ai-agents/agentic-rag-pipeline.md) — 🆕 Intelligent retrieval with query routing & re-ranking
 - [Multi-Agent Code Review](prompts/ai-agents/multi-agent-code-review.md) — 🆕 4-agent pipeline for automated PR reviews
 - [MCP Tool Connector](prompts/ai-agents/mcp-tool-connector.md) — 🔥 Generate a complete MCP server to connect AI to any API (97M+ SDK downloads)
+- [Terminal Agent Pipeline](prompts/ai-agents/terminal-agent-pipeline.md) — 🆕 Design autonomous pipelines with Claude Code, Codex CLI & Aider
+- [Multi-Agent Feature Factory](prompts/ai-agents/multi-agent-feature-factory.md) — 🆕 Spec-to-production with coordinated research→design→implement→validate agents
 
 ---
 
@@ -127,7 +130,7 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 38 | 100+ |
+| **Prompts** | 41 | 100+ |
 | **Categories** | 14 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
