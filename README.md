@@ -40,18 +40,18 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
 | [🗃️ Database & SQL](prompts/database-sql/) | 3 | Query optimization, schema design, migrations |
-| [⚙️ DevOps & CI/CD](prompts/devops/) | 2 | Dockerfiles, CI/CD pipelines |
+| [⚙️ DevOps & CI/CD](prompts/devops/) | 3 | Dockerfiles, CI/CD pipelines, **🆕 agentic CI/CD** |
 | [🔌 API Design](prompts/api-design/) | 2 | REST API design, third-party integrations |
 | [📊 Data Engineering](prompts/data-engineering/) | 2 | ETL pipelines, data validation |
-| [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
+| [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 15 | Claude Code workflows, Cursor AI rules, **🆕 vibe coding project scaffolder** |
-| [🤖 AI Agents](prompts/ai-agents/) | 15 | Agent architecture, MCP servers, **🆕 Claude Cowork delegation, agentic CI/CD** |
-| [🎯 Context Engineering](prompts/context-engineering/) | 3 | Context window optimization, **🆕 LLM context budget optimizer** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 18 | Claude Code workflows, Cursor AI rules, **🆕 spec-driven dev, Claude Code power user** |
+| [🤖 AI Agents](prompts/ai-agents/) | 18 | Agent architecture, MCP servers, **🆕 multi-agent orchestrator, agentic code review** |
+| [🎯 Context Engineering](prompts/context-engineering/) | 4 | Context window optimization, **🆕 context budget planner** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
-> **Total: 55 free prompts** across 16 categories
+> **Total: 64 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -86,6 +86,7 @@ Each category has its own folder with individual prompt files — easy to browse
 #### ⚙️ DevOps & CI/CD
 - [Dockerfile Builder](prompts/devops/dockerfile-builder.md) — Production-ready Docker setups
 - [CI/CD Pipeline Designer](prompts/devops/cicd-pipeline-designer.md) — Automated pipelines
+- [Agentic CI/CD Pipeline](prompts/devops/agentic-cicd-pipeline.md) — 🆕 AI agents for auto code review, testing, security & deployment in your pipeline
 
 #### 🔌 API Design
 - [REST API Designer](prompts/api-design/rest-api-designer.md) — Clean REST API design
@@ -98,6 +99,7 @@ Each category has its own folder with individual prompt files — easy to browse
 #### ♻️ Refactoring
 - [Code Refactorer](prompts/refactoring/code-refactorer.md) — Clean up messy code
 - [Legacy Code Modernizer](prompts/refactoring/legacy-code-modernizer.md) — Modernize old code
+- [AI-Assisted Codebase Migration](prompts/refactoring/ai-codebase-migration.md) — 🆕 Plan & execute large-scale migrations (JS→TS, framework upgrades, monolith splits)
 
 #### 🔒 Security
 - [Security Auditor](prompts/security/security-auditor.md) — Find vulnerabilities
@@ -118,6 +120,9 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Multi-Tool AI Coding Orchestrator](prompts/vibe-coding/multi-tool-ai-coding-orchestrator.md) — 🆕 Optimize your workflow across Cursor, Claude Code, Copilot & more
 - [TypeScript AI Convenience Loop](prompts/vibe-coding/typescript-ai-convenience-loop.md) — 🆕 Set up TS projects so AI tools work 10x better (the GitHub #1 language trick)
 - [Vibe Coding Full-Stack Scaffolder](prompts/vibe-coding/vibe-coding-fullstack-scaffolder.md) — 🔥 Go from idea to deployed app using natural language + AI tools
+- [AI Code Guardrails Setup](prompts/vibe-coding/ai-code-guardrails-setup.md) — 🆕 Pre-commit hooks, ESLint rules & CI checks for AI-generated code quality
+- [Spec-Driven AI Development](prompts/vibe-coding/spec-driven-development.md) — 🆕 Stop vibe coding, start spec coding — structured specs for first-try implementations
+- [Claude Code Power User](prompts/vibe-coding/claude-code-power-user.md) — 🆕 Advanced workflows for the #1 AI coding agent (CLAUDE.md optimization, multi-file orchestration)
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -130,6 +135,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Agent Memory System Designer](prompts/ai-agents/agent-memory-system-designer.md) — 🔥 Design persistent memory for autonomous agents (the #1 missing piece in 2026)
 - [Agent Error Recovery](prompts/ai-agents/ai-agent-error-recovery.md) — 🆕 Self-healing patterns for production AI agents (retries, fallbacks, circuit breakers)
 - [Agent Production Hardening](prompts/ai-agents/ai-agent-production-hardening.md) — 🆕 Complete checklist to take agents from demo to production (reliability, cost, observability)
+- [Local LLM Dev Environment](prompts/ai-agents/local-llm-dev-environment.md) — 🆕 Complete Ollama setup with model routing, IDE integration & hybrid cloud fallback
 
 #### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
