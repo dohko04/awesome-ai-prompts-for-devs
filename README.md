@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-33_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-36_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,8 +46,8 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 5 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, dual-tool setup |
-| [🤖 AI Agents](prompts/ai-agents/) | 4 | Agent architecture, MCP servers, agentic RAG, AI-first scaffolding |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 6 | Claude Code workflows, Cursor AI rules, AGENTS.md generator, multi-model session planning |
+| [🤖 AI Agents](prompts/ai-agents/) | 5 | Agent architecture, MCP servers, agentic RAG, workflow debugging |
 
 > **Total: 33 free prompts** across 14 categories
 
