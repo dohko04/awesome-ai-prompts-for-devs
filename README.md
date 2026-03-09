@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Full Toolkit](https://img.shields.io/badge/🚀_Full_Toolkit-100%2B_Prompts_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Prompts](https://img.shields.io/badge/Prompts-35_Free-orange?style=for-the-badge)](#-prompt-categories)
+[![Prompts](https://img.shields.io/badge/Prompts-30_Free-orange?style=for-the-badge)](#-prompt-categories)
 
 *Works with ChatGPT, Claude, Gemini, Copilot, and any LLM*
 
@@ -46,12 +46,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 2 | Code cleanup, legacy modernization |
 | [🔒 Security](prompts/security/) | 2 | Security audits, secrets checking |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 3 | Prompt improvement, pair programming, learning |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 5 | Claude Code workflows, Cursor rules, project setup, session kickoff |
-| [🤖 AI Agents](prompts/ai-agents/) | 4 | Agent architecture, CrewAI planning, multi-agent orchestration |
-| [🔧 MCP Tools](prompts/mcp-tools/) | 2 | MCP server builder, config generator |
-| [🔌 MCP Tools](prompts/mcp-tools/) | 1 | Build MCP servers for AI tool use |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 3 | Claude Code workflows, Cursor AI rules, project setup |
+| [🤖 AI Agents](prompts/ai-agents/) | 3 | Agent architecture, MCP servers, agentic RAG |
 
-> **Total: 35 free prompts** across 15 categories
+> **Total: 33 free prompts** across 14 categories
 
 ### Quick Links
 
@@ -106,19 +104,15 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Pair Programmer](prompts/meta-prompting/ai-pair-programmer.md) — Configure AI as your partner
 - [Learning Accelerator](prompts/meta-prompting/learning-accelerator.md) — Learn new tech fast
 
-#### 🎸 Vibe Coding *(NEW — March 2026)*
+#### 🎸 Vibe Coding *(Updated — March 2026)*
 - [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) — Power-user CLAUDE.md setup for terminal AI coding
 - [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) — Generate .cursor/rules for any stack
-- [AI Coding Session Kickoff](prompts/vibe-coding/coding-session-kickoff.md) — Start AI coding sessions with proper context
-- [Vibe Coding Guide](prompts/vibe-coding/README.md) — Overview of AI-assisted coding tools & techniques
+- [Claude Code Project Workflow](prompts/vibe-coding/claude-code-workflow.md) — 🆕 AGENTS.md + task decomposition + multi-agent workflow
 
-#### 🤖 AI Agents *(NEW — March 2026)*
+#### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
-- [Agent Architect](prompts/ai-agents/agent-architect.md) — Design multi-agent systems with LangGraph, CrewAI, AutoGen
-- [CrewAI Task Planner](prompts/ai-agents/crewai-task-planner.md) — Generate complete CrewAI crew configs
-
-#### 🔌 MCP Tools *(NEW — March 2026)*
-- [MCP Server Builder](prompts/mcp-tools/mcp-server-builder.md) — Build MCP servers from any API
+- [MCP Server Setup](prompts/ai-agents/mcp-server-setup.md) — 🆕 Build Model Context Protocol servers for AI tool integration
+- [Agentic RAG Pipeline](prompts/ai-agents/agentic-rag-pipeline.md) — 🆕 Intelligent retrieval with query routing & re-ranking
 
 ---
 
@@ -128,8 +122,8 @@ Each category has its own folder with individual prompt files — easy to browse
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Prompts** | 35 | 100+ |
-| **Categories** | 15 | 20+ |
+| **Prompts** | 30 | 100+ |
+| **Categories** | 14 | 18+ |
 | **Examples** | Basic | Advanced templates with variables |
 | **Workflow chains** | — | ✅ Multi-prompt sequences |
 | **IDE integration** | — | ✅ Snippets included |

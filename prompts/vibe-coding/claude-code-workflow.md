@@ -1,64 +1,67 @@
-# 🎯 Claude Code CLI — Power Workflow Prompt
+# Claude Code Project Workflow 🎨⚡
 
-> **Category:** Vibe Coding · **Works with:** Claude Code CLI  
-> **Trending:** March 2026 — Claude Code is the #1 terminal-based AI coding tool
+> Set up Claude Code (or any AI coding agent) for maximum productivity on real projects.
 
-## The Prompt
+Vibe coding in 2026 isn't just "generate code" — it's structured workflows with AGENTS.md, task tracking, and multi-file orchestration.
 
-```
-You are my senior engineering partner in this Claude Code session. Follow these rules:
-
-## Session Protocol
-1. Before ANY code change, read the relevant files first — never assume content
-2. Use `git diff` before commits to verify changes are clean
-3. Run tests after every significant change (ask me for the test command if unknown)
-4. When I say "ship it" — commit with a conventional commit message, push, and summarize
-
-## Code Standards
-- Prefer small, focused functions (<30 lines)
-- Type everything (TypeScript strict, Python type hints, etc.)
-- No `any` types — find the real type or create one
-- Error handling: never swallow errors silently
-- Use early returns over deep nesting
-
-## Communication Style
-- Be direct. Skip pleasantries.
-- If something looks wrong in existing code, flag it (but don't fix unless asked)
-- Give me options when there are trade-offs, with your recommendation
-- Use the /compact command proactively when context gets long
-
-## When Stuck
-- Search the codebase with grep/ripgrep before asking me
-- Check package.json / requirements.txt for available tools
-- Read README.md and docs/ if they exist
-- THEN ask me — with what you already found
-```
-
-## How to Use
-
-1. Copy this into your `CLAUDE.md` file at the project root
-2. Claude Code reads it automatically every session
-3. Customize the code standards to match your stack
-
-## Pro Tips
-
-- **Use `/init`** to let Claude Code generate a starter `CLAUDE.md` — then merge with this prompt
-- **Combine with `.cursorrules`** if you switch between Cursor and Claude Code
-- **Set `CLAUDE_CODE_MAX_OUTPUT_TOKENS`** env var for longer outputs in complex refactors
-
-## Example Interaction
+## The Prompt (Free Version)
 
 ```
-You: look at src/api/users.ts — there's a bug in the pagination logic
-Claude: *reads file* Found it. Line 47 uses `offset` but never accounts for...
-You: fix it
-Claude: *fixes + runs tests* ✅ All 23 tests pass. Want me to ship it?
-You: ship it
-Claude: Committed: fix(api): correct pagination offset calculation. Pushed to feature/user-api.
+You are an expert at setting up AI-powered coding workflows using Claude Code, Cursor, or similar tools.
+
+## My Project
+- **Project type:** [web app / API / CLI / library]
+- **Tech stack:** [list frameworks and languages]
+- **Repo:** [new / existing with N files]
+
+## Generate a Complete Vibe Coding Setup
+
+### 1. AGENTS.md (project instructions for the AI)
+Create an AGENTS.md file that tells the AI coding agent:
+- Project architecture and conventions
+- File organization rules
+- Testing requirements
+- Code style and patterns to follow
+- What NOT to do (common mistakes to avoid)
+
+### 2. Task Decomposition Template
+Break a feature request into AI-friendly tasks:
+- Each task = one clear, bounded change
+- Include context the AI needs
+- Specify files to modify
+- Define "done" criteria
+
+### 3. Review Checklist
+What to verify after AI generates code:
+- Security implications
+- Error handling
+- Edge cases
+- Performance
+- Tests passing
+
+## Constraints
+- Tasks should be completable in a single AI session
+- Include rollback strategy for each task
+- Assume the AI has full codebase context
 ```
+
+## What You Get (Free)
+- Basic AGENTS.md template
+- Simple task decomposition
+- Review checklist
+
+## 🔥 Full Version — AI Dev Toolkit ($9)
+
+The complete version includes:
+- **Production AGENTS.md templates** for 5 project types (Next.js, FastAPI, Go service, React Native, CLI)
+- **Multi-agent orchestration** — architect + coder + reviewer workflow
+- **Git integration** — automatic branch + PR creation per task
+- **Claude Code custom commands library** (15+ slash commands)
+- **Cursor rules collection** — .cursorrules for 10 frameworks
+- **Windsurf cascade patterns** for complex refactors
+- **Quality gates** — automated checks before accepting AI output
+
+👉 **[Get the full toolkit → ai-dev-toolkit-five.vercel.app](https://ai-dev-toolkit-five.vercel.app)**
 
 ---
-
-> 💡 **This is 1 of 27 free prompts.** The [Full AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) includes **100+ prompts** with advanced Claude Code workflows, multi-agent setups, CLAUDE.md templates for every stack, and IDE integration snippets — **$9 one-time**.
->
-> [**Get the Full Toolkit →**](https://ai-dev-toolkit-five.vercel.app)
+*Part of [Awesome AI Prompts for Devs](https://github.com/dohko04/awesome-ai-prompts-for-devs) by Dohko*
