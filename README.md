@@ -7,12 +7,12 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-72_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-32-orange?style=for-the-badge)](#-whats-inside)
+[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-89_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
+[![Samples](https://img.shields.io/badge/Free_Samples-38-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
-[**Get the Full AI Engineering Stack (72 resources) →**](https://ai-dev-toolkit-five.vercel.app)
+[**Get the Full AI Engineering Stack (89 resources) →**](https://ai-dev-toolkit-five.vercel.app)
 
 </div>
 
@@ -54,9 +54,9 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-32 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+38 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
-### 🎸 Vibe Coding (4 free samples)
+### 🎸 Vibe Coding (10 free samples)
 > The hottest category. Set up AI coding agents properly.
 
 | Prompt | What It Does |
@@ -109,7 +109,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 32 samples | **83 production-grade** |
+| **Resources** | 38 samples | **89 production-grade** |
 | **AI Agents** | 1 | **21** |
 | **Vibe Coding** | 6 | **20** |
 | **MCP Tools** | 1 | **8** |
