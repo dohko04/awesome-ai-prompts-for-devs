@@ -35,7 +35,7 @@ Each category has its own folder with individual prompt files — easy to browse
 | Category | Prompts | Description |
 |----------|:-------:|-------------|
 | [🐛 Debugging](prompts/debugging/) | 3 | Root-cause analysis, error decoding, log analysis |
-| [🔍 Code Review](prompts/code-review/) | 3 | Senior-level reviews, PR descriptions, **🆕 AI PR review agent** |
+| [🔍 Code Review](prompts/code-review/) | 4 | Senior-level reviews, PR descriptions, **🆕 AI PR review agent, AI security code review** |
 | [🏗️ Architecture](prompts/architecture/) | 2 | System design, tech stack decisions |
 | [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
@@ -44,14 +44,14 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🔌 API Design](prompts/api-design/) | 2 | REST API design, third-party integrations |
 | [📊 Data Engineering](prompts/data-engineering/) | 2 | ETL pipelines, data validation |
 | [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
-| [🔒 Security](prompts/security/) | 4 | Security audits, secrets checking, **🆕 AI vulnerability scanner (Codex Security-style)** |
+| [🔒 Security](prompts/security/) | 5 | Security audits, secrets checking, **🆕 AI vulnerability scanner, MCP security governance** |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 4 | Prompt improvement, pair programming, **🆕 LLM cost optimization** |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 24 | Claude Code workflows, Cursor AI rules, **🆕 agent skills setup, TypeScript AI-optimized stack** |
-| [🤖 AI Agents](prompts/ai-agents/) | 21 | Agent architecture, MCP servers, **🆕 reasoning model optimizer, agent observability & tracing** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 25 | Claude Code workflows, Cursor AI rules, **🆕 agent skills setup, TypeScript AI-optimized stack** |
+| [🤖 AI Agents](prompts/ai-agents/) | 22 | Agent architecture, MCP servers, **🆕 agent team scaling blueprint, agent observability & tracing** |
 | [🎯 Context Engineering](prompts/context-engineering/) | 6 | Context window optimization, **🆕 million-token context strategy** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
-> **Total: 76 free prompts** across 16 categories
+> **Total: 80 free prompts** across 16 categories
 
 ### Quick Links
 
