@@ -35,7 +35,7 @@ Each category has its own folder with individual prompt files — easy to browse
 | Category | Prompts | Description |
 |----------|:-------:|-------------|
 | [🐛 Debugging](prompts/debugging/) | 3 | Root-cause analysis, error decoding, log analysis |
-| [🔍 Code Review](prompts/code-review/) | 2 | Senior-level reviews, PR descriptions |
+| [🔍 Code Review](prompts/code-review/) | 3 | Senior-level reviews, PR descriptions, **🆕 AI security code review** |
 | [🏗️ Architecture](prompts/architecture/) | 2 | System design, tech stack decisions |
 | [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
@@ -44,10 +44,10 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🔌 API Design](prompts/api-design/) | 2 | REST API design, third-party integrations |
 | [📊 Data Engineering](prompts/data-engineering/) | 2 | ETL pipelines, data validation |
 | [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
-| [🔒 Security](prompts/security/) | 3 | Security audits, secrets checking, **🆕 agent sandbox security** |
+| [🔒 Security](prompts/security/) | 4 | Security audits, secrets checking, **🆕 agent sandbox security, MCP security governance** |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 4 | Prompt improvement, pair programming, **🆕 LLM cost optimization** |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 22 | Claude Code workflows, Cursor AI rules, **🆕 open-source LLM coding setup (Qwen3/Llama 4)** |
-| [🤖 AI Agents](prompts/ai-agents/) | 21 | Agent architecture, MCP servers, **🆕 reasoning model optimizer, agent observability & tracing** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 23 | Claude Code workflows, Cursor AI rules, **🆕 auto-accept autonomous loop, open-source LLM coding setup** |
+| [🤖 AI Agents](prompts/ai-agents/) | 22 | Agent architecture, MCP servers, **🆕 agent team scaling blueprint, agent observability & tracing** |
 | [🎯 Context Engineering](prompts/context-engineering/) | 6 | Context window optimization, **🆕 million-token context strategy** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
