@@ -35,7 +35,7 @@ Each category has its own folder with individual prompt files — easy to browse
 | Category | Prompts | Description |
 |----------|:-------:|-------------|
 | [🐛 Debugging](prompts/debugging/) | 3 | Root-cause analysis, error decoding, log analysis |
-| [🔍 Code Review](prompts/code-review/) | 2 | Senior-level reviews, PR descriptions |
+| [🔍 Code Review](prompts/code-review/) | 3 | Senior-level reviews, PR descriptions, **🆕 AI PR review agent** |
 | [🏗️ Architecture](prompts/architecture/) | 2 | System design, tech stack decisions |
 | [🧪 Testing](prompts/testing/) | 4 | Test generation, edge case discovery, LLM output evaluation, **🆕 LLM eval & guardrails pipeline** |
 | [📝 Documentation](prompts/documentation/) | 2 | README generation, code commenting |
@@ -44,14 +44,14 @@ Each category has its own folder with individual prompt files — easy to browse
 | [🔌 API Design](prompts/api-design/) | 2 | REST API design, third-party integrations |
 | [📊 Data Engineering](prompts/data-engineering/) | 2 | ETL pipelines, data validation |
 | [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
-| [🔒 Security](prompts/security/) | 3 | Security audits, secrets checking, **🆕 agent sandbox security** |
+| [🔒 Security](prompts/security/) | 4 | Security audits, secrets checking, **🆕 AI vulnerability scanner (Codex Security-style)** |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 4 | Prompt improvement, pair programming, **🆕 LLM cost optimization** |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 22 | Claude Code workflows, Cursor AI rules, **🆕 open-source LLM coding setup (Qwen3/Llama 4)** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 24 | Claude Code workflows, Cursor AI rules, **🆕 agent skills setup, TypeScript AI-optimized stack** |
 | [🤖 AI Agents](prompts/ai-agents/) | 21 | Agent architecture, MCP servers, **🆕 reasoning model optimizer, agent observability & tracing** |
 | [🎯 Context Engineering](prompts/context-engineering/) | 6 | Context window optimization, **🆕 million-token context strategy** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
-> **Total: 72 free prompts** across 16 categories
+> **Total: 76 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -63,6 +63,7 @@ Each category has its own folder with individual prompt files — easy to browse
 #### 🔍 Code Review
 - [Senior Dev Reviewer](prompts/code-review/senior-dev-reviewer.md) — Thorough code review
 - [PR Description Writer](prompts/code-review/pr-description-writer.md) — Professional PR descriptions
+- [AI PR Review Agent](prompts/code-review/ai-pr-review-agent.md) — 🆕 AI-powered PR review (Claude Code Review-style)
 
 #### 🏗️ Architecture
 - [System Design Architect](prompts/architecture/system-design-architect.md) — Design systems from scratch
