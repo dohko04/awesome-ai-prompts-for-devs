@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-30 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+32 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (4 free samples)
 > The hottest category. Set up AI coding agents properly.
