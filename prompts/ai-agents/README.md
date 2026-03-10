@@ -9,6 +9,8 @@ Build AI agents that actually work. These prompts help you design, build, and de
 | [Agent Architect](agent-architect.md) | Design multi-agent systems with clear roles and communication patterns |
 | [CrewAI Task Planner](crewai-task-planner.md) | Generate CrewAI crew configs with agents, tasks, and tools |
 | [Agent Orchestration Starter](ai-agent-orchestration-starter.md) | Design multi-agent pipelines with orchestration patterns, error handling, and implementation skeletons |
+| [Agent Evaluation Framework](agent-evaluation-framework.md) | Systematically evaluate and select the right AI agent architecture for your project |
+| [Multi-Tool Orchestration](multi-tool-orchestration.md) | Design optimal workflows across 2-4 AI tools — use each for what it's best at |
 
 ## What's Trending (2026)
 
