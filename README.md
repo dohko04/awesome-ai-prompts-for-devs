@@ -66,6 +66,8 @@ and architecture feedback instantly.
 | [Agent Skills Setup](prompts/vibe-coding/agent-skills-setup.md) | Configure AI agent capabilities and tool access |
 | [TS + AI Stack](prompts/vibe-coding/typescript-ai-optimized-stack.md) | TypeScript project structure optimized for AI pair programming |
 | [AI-Optimized Type Design](prompts/vibe-coding/ai-optimized-type-design.md) | Design types that make AI coding assistants 3-5x more accurate |
+| [Claude Code Voice Pairing](prompts/vibe-coding/claude-code-voice-pair-programming.md) | 🆕 Hands-free pair programming with Claude Code's `/voice` mode |
+| [AI-Native Solo Dev Stack](prompts/vibe-coding/ai-native-solo-dev-stack.md) | 🆕 Replace a 10-person team with AI — the 2026 solo dev playbook |
 
 ### 🤖 AI Agents & Architecture
 | Prompt | What It Does |
@@ -107,9 +109,9 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 30 samples | **81 production-grade** |
-| **AI Agents** | 1 | **20** |
-| **Vibe Coding** | 4 | **19** |
+| **Resources** | 32 samples | **83 production-grade** |
+| **AI Agents** | 1 | **21** |
+| **Vibe Coding** | 6 | **20** |
 | **MCP Tools** | 1 | **8** |
 | **RAG & Context** | 1 | **7** |
 | **Core Dev** | — | **14** |
