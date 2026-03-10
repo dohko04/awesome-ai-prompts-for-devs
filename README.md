@@ -46,12 +46,12 @@ Each category has its own folder with individual prompt files — easy to browse
 | [♻️ Refactoring](prompts/refactoring/) | 3 | Code cleanup, legacy modernization, **🆕 AI-assisted migration** |
 | [🔒 Security](prompts/security/) | 3 | Security audits, secrets checking, **🆕 agent sandbox security** |
 | [🎯 Meta-Prompting](prompts/meta-prompting/) | 4 | Prompt improvement, pair programming, **🆕 LLM cost optimization** |
-| [🎸 Vibe Coding](prompts/vibe-coding/) | 21 | Claude Code workflows, Cursor AI rules, **🆕 AI convenience loop, Codex CLI agent, LLM-friendly code** |
-| [🤖 AI Agents](prompts/ai-agents/) | 19 | Agent architecture, MCP servers, **🆕 parallel agent task delegator, multi-agent orchestrator** |
-| [🎯 Context Engineering](prompts/context-engineering/) | 5 | Context window optimization, **🆕 AI codebase onboarding** |
+| [🎸 Vibe Coding](prompts/vibe-coding/) | 22 | Claude Code workflows, Cursor AI rules, **🆕 open-source LLM coding setup (Qwen3/Llama 4)** |
+| [🤖 AI Agents](prompts/ai-agents/) | 21 | Agent architecture, MCP servers, **🆕 reasoning model optimizer, agent observability & tracing** |
+| [🎯 Context Engineering](prompts/context-engineering/) | 6 | Context window optimization, **🆕 million-token context strategy** |
 | [🔧 MCP Tools](prompts/mcp-tools/) | 8 | MCP server builder, security audit, **🆕 enterprise MCP integration architect** |
 
-> **Total: 68 free prompts** across 16 categories
+> **Total: 72 free prompts** across 16 categories
 
 ### Quick Links
 
@@ -129,6 +129,7 @@ Each category has its own folder with individual prompt files — easy to browse
 - [AI Convenience Loop Stack Optimizer](prompts/vibe-coding/ai-convenience-loop-stack.md) — 🆕 Optimize your tech stack for maximum AI coding productivity
 - [Codex CLI Agent Workflow](prompts/vibe-coding/codex-cli-agent-workflow.md) — 🆕 Design multi-step workflows for CLI-based AI coding agents
 - [LLM-Friendly Code Patterns](prompts/vibe-coding/llm-friendly-code-patterns.md) — 🆕 Refactor code so AI tools understand and modify it correctly
+- [Open-Source LLM Coding Setup](prompts/vibe-coding/open-source-llm-coding-setup.md) — 🔥 Set up Qwen3-Coder/Llama 4 locally for free AI coding (March 2026)
 
 #### 🤖 AI Agents *(Updated — March 2026)*
 - [Agent Architecture Designer](prompts/ai-agents/agent-architecture-designer.md) — Design agent systems with tools, memory & guardrails
@@ -145,12 +146,15 @@ Each category has its own folder with individual prompt files — easy to browse
 - [Multi-Agent Orchestrator](prompts/ai-agents/multi-agent-orchestrator.md) — 🆕 Coordinate Claude Code + Cursor + Copilot without chaos (2-4 agents simultaneously)
 - [Agentic Code Review Pipeline](prompts/ai-agents/agentic-code-review-pipeline.md) — 🆕 4-pass AI review pipeline that catches issues before human reviewers
 - [Parallel Agent Task Delegator](prompts/ai-agents/parallel-agent-task-delegator.md) — 🆕 Decompose features into parallel tasks for multiple coding agents (Codex App style)
+- [Reasoning Model Prompt Optimizer](prompts/ai-agents/reasoning-model-prompt-optimizer.md) — 🔥 Optimize prompts for o1/R1/Claude Thinking models (they need different patterns!)
+- [Agent Observability & Tracing](prompts/ai-agents/agent-observability-tracing.md) — 🔥 Production monitoring for AI agents (costs, latency, error rates, dashboards)
 
 #### 🎯 Context Engineering *(Updated — March 2026)*
 - [Context Engineering Optimizer](prompts/context-engineering/context-engineering-optimizer.md) — 🔥 Optimize your entire AI workflow's context window for better outputs
 - [LLM Context Budget Optimizer](prompts/context-engineering/llm-context-budget-optimizer.md) — 🆕 Smart token budgeting — stop dumping files, start engineering context
 - [Context Budget Planner](prompts/context-engineering/context-budget-planner.md) — 🆕 Systematic token allocation — fit more signal into your AI's context window
 - [AI-Powered Codebase Onboarding](prompts/context-engineering/ai-codebase-onboarding.md) — 🆕 Get up to speed on any codebase fast using AI as your guide
+- [Million-Token Context Strategy](prompts/context-engineering/million-token-context-strategy.md) — 🔥 Use GPT-5.2's 1M tokens without drowning in noise (March 2026)
 
 #### 🖥️ Terminal Agents *(New — March 2026)*
 - [Terminal Agent Power Workflow](prompts/vibe-coding/terminal-agent-power-workflow.md) — 🔥 Shell aliases, multi-agent coordination & safety configs for Claude Code/Codex CLI
