@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-72_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-22-orange?style=for-the-badge)](#-whats-inside)
+[![Samples](https://img.shields.io/badge/Free_Samples-23-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-22 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+25 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (4 free samples)
 > The hottest category. Set up AI coding agents properly.
@@ -70,6 +70,8 @@ and architecture feedback instantly.
 | Prompt | What It Does |
 |--------|-------------|
 | [AI Agent Design](prompts/ai-agents/) | Architecture patterns for autonomous agents |
+| [Computer-Use Agent Builder](prompts/ai-agents/computer-use-agent-builder.md) | 🆕 Build agents that operate computers with GPT-5.4 |
+| [Mid-Response Steering](prompts/ai-agents/mid-response-steering-workflow.md) | 🆕 Guide AI mid-execution — stop wasting tokens on wrong paths |
 | [System Architecture](prompts/architecture/) | Design scalable systems from requirements |
 | [API Design](prompts/api-design/) | REST API design with best practices |
 
@@ -103,7 +105,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 22 samples | **73 production-grade** |
+| **Resources** | 23 samples | **74 production-grade** |
 | **AI Agents** | 1 | **20** |
 | **Vibe Coding** | 4 | **19** |
 | **MCP Tools** | 1 | **8** |
