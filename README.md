@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-72_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-23-orange?style=for-the-badge)](#-whats-inside)
+[![Samples](https://img.shields.io/badge/Free_Samples-25-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
@@ -65,6 +65,7 @@ and architecture feedback instantly.
 | [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) | Generate `.cursorrules` tailored to your project |
 | [Agent Skills Setup](prompts/vibe-coding/agent-skills-setup.md) | Configure AI agent capabilities and tool access |
 | [TS + AI Stack](prompts/vibe-coding/typescript-ai-optimized-stack.md) | TypeScript project structure optimized for AI pair programming |
+| [AI-Optimized Type Design](prompts/vibe-coding/ai-optimized-type-design.md) | Design types that make AI coding assistants 3-5x more accurate |
 
 ### 🤖 AI Agents & Architecture
 | Prompt | What It Does |
@@ -97,6 +98,7 @@ and architecture feedback instantly.
 | [MCP Tools](prompts/mcp-tools/) | Build Model Context Protocol servers |
 | [Meta-Prompting](prompts/meta-prompting/) | Improve your own prompts |
 | [Context Engineering](prompts/context-engineering/) | Build perfect codebase context for LLMs |
+| [AI Memory Engineer](prompts/context-engineering/ai-memory-engineer.md) | Structure AI memory for dev workflows (Claude, ChatGPT, Gemini) |
 | [Testing](prompts/testing/) | Test generation & coverage |
 
 ---
