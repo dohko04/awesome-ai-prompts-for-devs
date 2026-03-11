@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-48 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+50 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (10 free samples)
 > The hottest category. Set up AI coding agents properly.
@@ -111,7 +111,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 48 samples | **99 production-grade** |
+| **Resources** | 50 samples | **99 production-grade** |
 | **AI Agents** | 1 | **21** |
 | **Vibe Coding** | 6 | **20** |
 | **MCP Tools** | 1 | **8** |
