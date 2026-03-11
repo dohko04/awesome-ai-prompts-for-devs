@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-93_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-44-orange?style=for-the-badge)](#-whats-inside)
+[![Samples](https://img.shields.io/badge/Free_Samples-48-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-44 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+48 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (10 free samples)
 > The hottest category. Set up AI coding agents properly.
@@ -75,6 +75,8 @@ and architecture feedback instantly.
 | [AI Agent Design](prompts/ai-agents/) | Architecture patterns for autonomous agents |
 | [Computer-Use Agent Builder](prompts/ai-agents/computer-use-agent-builder.md) | 🆕 Build agents that operate computers with GPT-5.4 |
 | [Mid-Response Steering](prompts/ai-agents/mid-response-steering-workflow.md) | 🆕 Guide AI mid-execution — stop wasting tokens on wrong paths |
+| [Gemini Workspace Automation](prompts/ai-agents/gemini-workspace-automation-builder.md) | 🆕 Automate Google Workspace with Gemini's March 2026 deep integration |
+| [NemoClaw Agent Scaffolder](prompts/ai-agents/nemoclaw-agent-scaffolder.md) | 🆕 Scaffold enterprise agents for NVIDIA's NemoClaw (GTC 2026) |
 | [System Architecture](prompts/architecture/) | Design scalable systems from requirements |
 | [API Design](prompts/api-design/) | REST API design with best practices |
 
@@ -109,7 +111,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 44 samples | **93 production-grade** |
+| **Resources** | 48 samples | **93 production-grade** |
 | **AI Agents** | 1 | **21** |
 | **Vibe Coding** | 6 | **20** |
 | **MCP Tools** | 1 | **8** |
