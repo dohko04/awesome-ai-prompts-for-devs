@@ -54,22 +54,21 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-22 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+20 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (5 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) | Full project setup with AGENTS.md, task tracking, multi-file orchestration |
 | [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) | Generate `.cursorrules` tailored to your project |
-| [AI-Native Solo Dev Stack](prompts/vibe-coding/ai-native-solo-dev-stack.md) | Replace a 10-person team with AI — the 2026 solo dev playbook |
+| [Cursor Automations Starter](prompts/vibe-coding/cursor-automations-starter.md) | Automate repetitive Cursor workflows |
 | [Free AI Coding CLI Selector](prompts/vibe-coding/free-ai-coding-cli-selector.md) | Compare free AI coding CLIs — OpenCode, Aider, Copilot CLI & more |
-| [Gemini Chrome Dev Workflow](prompts/vibe-coding/gemini-chrome-dev-workflow.md) | Build a Gemini-powered dev workflow inside Chrome |
+| [Goose Free AI Coding Setup](prompts/vibe-coding/goose-free-ai-coding-setup.md) | Set up Goose as a free Claude Code alternative |
 
-### 🤖 AI Agents (3 samples)
+### 🤖 AI Agents (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Agent Architect](prompts/ai-agents/agent-architect.md) | Architecture patterns for autonomous agents |
-| [Computer-Use Agent Builder](prompts/ai-agents/computer-use-agent-builder.md) | Build agents that operate computers autonomously |
 | [Meta-Agent Designer](prompts/ai-agents/meta-agent-designer.md) | Design agents that build other agents |
 
 ### 🔍 Code Review (2 samples)
@@ -84,17 +83,15 @@ and architecture feedback instantly.
 | [Security Auditor](prompts/security/security-auditor.md) | Comprehensive security audit framework |
 | [AI Security Vulnerability Scanner](prompts/security/ai-security-vulnerability-scanner.md) | Automated vulnerability scanning |
 
-### 🔧 MCP Tools (2 samples)
+### 🔧 MCP Tools (1 sample)
 | Prompt | What It Does |
 |--------|-------------|
 | [MCP Server Builder](prompts/mcp-tools/mcp-server-builder.md) | Build production MCP servers from scratch |
-| [MCP Progressive Disclosure](prompts/mcp-tools/mcp-progressive-disclosure-optimizer.md) | Progressive disclosure patterns for MCP |
 
-### 🎯 Meta-Prompting (2 samples)
+### 🎯 Meta-Prompting (1 sample)
 | Prompt | What It Does |
 |--------|-------------|
 | [Prompt Improver](prompts/meta-prompting/prompt-improver.md) | Make your prompts dramatically better |
-| [Frontier Model Prompt Optimizer](prompts/meta-prompting/frontier-model-prompt-optimizer.md) | Optimize prompts for frontier models |
 
 ### 📚 Context Engineering (2 samples)
 | Prompt | What It Does |
@@ -128,7 +125,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 22 curated samples | **103 production-grade** |
+| **Resources** | 20 curated samples | **113 production-grade** |
 | **AI Agents** | 3 | **32** |
 | **Vibe Coding** | 5 | **27** |
 | **MCP Tools** | 2 | **10** |
