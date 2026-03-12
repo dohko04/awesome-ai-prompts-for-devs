@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-103_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-20-orange?style=for-the-badge)](#-whats-inside)
+[![Samples](https://img.shields.io/badge/Free_Samples-22-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
@@ -54,14 +54,16 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-20 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+22 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
-### 🎸 Vibe Coding (3 samples)
+### 🎸 Vibe Coding (5 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) | Full project setup with AGENTS.md, task tracking, multi-file orchestration |
 | [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) | Generate `.cursorrules` tailored to your project |
 | [AI-Native Solo Dev Stack](prompts/vibe-coding/ai-native-solo-dev-stack.md) | Replace a 10-person team with AI — the 2026 solo dev playbook |
+| [Free AI Coding CLI Selector](prompts/vibe-coding/free-ai-coding-cli-selector.md) | Compare free AI coding CLIs — OpenCode, Aider, Copilot CLI & more |
+| [Gemini Chrome Dev Workflow](prompts/vibe-coding/gemini-chrome-dev-workflow.md) | Build a Gemini-powered dev workflow inside Chrome |
 
 ### 🤖 AI Agents (3 samples)
 | Prompt | What It Does |
@@ -126,9 +128,9 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 20 curated samples | **103 production-grade** |
+| **Resources** | 22 curated samples | **103 production-grade** |
 | **AI Agents** | 3 | **32** |
-| **Vibe Coding** | 3 | **27** |
+| **Vibe Coding** | 5 | **27** |
 | **MCP Tools** | 2 | **10** |
 | **RAG & Context** | 2 | **8** |
 | **Core Dev** | — | **14** |
