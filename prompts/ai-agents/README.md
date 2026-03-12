@@ -7,19 +7,9 @@ Build AI agents that actually work. These prompts help you design, build, and de
 | Prompt | Description |
 |--------|-------------|
 | [Agent Architect](agent-architect.md) | Design multi-agent systems with clear roles and communication patterns |
-| [CrewAI Task Planner](crewai-task-planner.md) | Generate CrewAI crew configs with agents, tasks, and tools |
-| [Agent Orchestration Starter](ai-agent-orchestration-starter.md) | Design multi-agent pipelines with orchestration patterns, error handling, and implementation skeletons |
-| [Agent Evaluation Framework](agent-evaluation-framework.md) | Systematically evaluate and select the right AI agent architecture for your project |
-| [Multi-Tool Orchestration](multi-tool-orchestration.md) | Design optimal workflows across 2-4 AI tools — use each for what it's best at |
-| [Gemini Workspace Automation Builder](gemini-workspace-automation-builder.md) | Design AI automations using Google's new Gemini Workspace integration (March 2026) |
-| [NemoClaw Agent Scaffolder](nemoclaw-agent-scaffolder.md) | Scaffold enterprise AI agents using NVIDIA's NemoClaw platform (GTC 2026) |
-
-## What's Trending (2026)
-
-- **Multi-agent systems** saw a 1,445% surge in interest (Gartner)
-- **LangGraph** and **CrewAI** dominate the agent framework space
-- GitHub's Agent HQ lets devs run Claude, Codex, and Copilot simultaneously
+| [Computer-Use Agent Builder](computer-use-agent-builder.md) | Build agents that operate computers autonomously |
+| [Meta-Agent Designer](meta-agent-designer.md) | Design agents that build other agents |
 
 ---
 
-> 💡 **Want the full Agent Toolkit?** The [AI Dev Toolkit](https://dohko04.gumroad.com/l/ai-dev-toolkit) ($9) includes production-ready agent templates, advanced orchestration prompts, evaluation frameworks, and multi-agent workflow builders that go way beyond what's here.
+> 💡 **Want the full Agent Toolkit?** The [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) includes 32 production-ready agent resources — orchestration, memory systems, evaluation frameworks, multi-agent workflows, and more.

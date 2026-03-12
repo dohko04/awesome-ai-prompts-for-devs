@@ -1,15 +1,14 @@
 # 🔍 Code Review Prompts
 
-Get thorough, senior-level code reviews from AI. Catch bugs, security issues, and code smells before they reach production.
+Get thorough, senior-level code reviews from AI.
 
-## Prompts in this category
+## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [Senior Dev Reviewer](senior-dev-reviewer.md) | Comprehensive code review like a senior engineer |
-| [PR Description Writer](pr-description-writer.md) | Generate professional pull request descriptions |
-| [Claude Code Review Setup](claude-code-review-setup.md) | 🆕 Configure Anthropic's multi-agent PR review system (REVIEW.md template) |
+| [Senior Dev Reviewer](senior-dev-reviewer.md) | PR review at senior engineer level |
+| [AI PR Review Agent](ai-pr-review-agent.md) | Automated multi-pass PR review pipeline |
 
 ---
 
-[← Back to all prompts](../../README.md)
+> 💡 **Full toolkit:** [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) — 103 production-ready resources.

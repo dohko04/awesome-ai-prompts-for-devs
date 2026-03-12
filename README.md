@@ -7,12 +7,12 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-99_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-50-orange?style=for-the-badge)](#-whats-inside)
+[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-103_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
+[![Samples](https://img.shields.io/badge/Free_Samples-20-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
-[**Get the Full AI Engineering Stack (99 resources) →**](https://ai-dev-toolkit-five.vercel.app)
+[**Get the Full AI Engineering Stack (103 resources) →**](https://ai-dev-toolkit-five.vercel.app)
 
 </div>
 
@@ -54,56 +54,71 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-50 free samples across 16 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+20 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
-### 🎸 Vibe Coding (10 free samples)
-> The hottest category. Set up AI coding agents properly.
-
+### 🎸 Vibe Coding (3 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) | Full project setup with AGENTS.md, task tracking, multi-file orchestration |
 | [Cursor Rules Generator](prompts/vibe-coding/cursor-rules-generator.md) | Generate `.cursorrules` tailored to your project |
-| [Agent Skills Setup](prompts/vibe-coding/agent-skills-setup.md) | Configure AI agent capabilities and tool access |
-| [TS + AI Stack](prompts/vibe-coding/typescript-ai-optimized-stack.md) | TypeScript project structure optimized for AI pair programming |
-| [AI-Optimized Type Design](prompts/vibe-coding/ai-optimized-type-design.md) | Design types that make AI coding assistants 3-5x more accurate |
-| [Claude Code Voice Pairing](prompts/vibe-coding/claude-code-voice-pair-programming.md) | 🆕 Hands-free pair programming with Claude Code's `/voice` mode |
-| [AI-Native Solo Dev Stack](prompts/vibe-coding/ai-native-solo-dev-stack.md) | 🆕 Replace a 10-person team with AI — the 2026 solo dev playbook |
+| [AI-Native Solo Dev Stack](prompts/vibe-coding/ai-native-solo-dev-stack.md) | Replace a 10-person team with AI — the 2026 solo dev playbook |
 
-### 🤖 AI Agents & Architecture
+### 🤖 AI Agents (3 samples)
 | Prompt | What It Does |
 |--------|-------------|
-| [AI Agent Design](prompts/ai-agents/) | Architecture patterns for autonomous agents |
-| [Computer-Use Agent Builder](prompts/ai-agents/computer-use-agent-builder.md) | 🆕 Build agents that operate computers with GPT-5.4 |
-| [Mid-Response Steering](prompts/ai-agents/mid-response-steering-workflow.md) | 🆕 Guide AI mid-execution — stop wasting tokens on wrong paths |
-| [Gemini Workspace Automation](prompts/ai-agents/gemini-workspace-automation-builder.md) | 🆕 Automate Google Workspace with Gemini's March 2026 deep integration |
-| [NemoClaw Agent Scaffolder](prompts/ai-agents/nemoclaw-agent-scaffolder.md) | 🆕 Scaffold enterprise agents for NVIDIA's NemoClaw (GTC 2026) |
-| [System Architecture](prompts/architecture/) | Design scalable systems from requirements |
-| [API Design](prompts/api-design/) | REST API design with best practices |
+| [Agent Architect](prompts/ai-agents/agent-architect.md) | Architecture patterns for autonomous agents |
+| [Computer-Use Agent Builder](prompts/ai-agents/computer-use-agent-builder.md) | Build agents that operate computers autonomously |
+| [Meta-Agent Designer](prompts/ai-agents/meta-agent-designer.md) | Design agents that build other agents |
 
-### 🔍 Code Quality & Security
+### 🔍 Code Review (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
-| [Senior Code Review](prompts/code-review/) | PR review at senior engineer level (2 samples) |
-| [Security Audit](prompts/security/) | Vulnerability scanning & security hardening (2 samples) |
-| [Refactoring](prompts/refactoring/) | Clean up legacy code systematically |
-| [Debugging](prompts/debugging/) | Root-cause analysis framework |
+| [Senior Dev Reviewer](prompts/code-review/senior-dev-reviewer.md) | PR review at senior engineer level |
+| [AI PR Review Agent](prompts/code-review/ai-pr-review-agent.md) | Automated multi-pass PR review pipeline |
 
-### 📊 Data & DevOps
+### 🔒 Security (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
-| [Data Engineering](prompts/data-engineering/) | ETL pipeline design |
-| [Database & SQL](prompts/database-sql/) | Query optimization |
-| [DevOps](prompts/devops/) | Dockerfile & CI/CD |
-| [Documentation](prompts/documentation/) | README & docs generation |
+| [Security Auditor](prompts/security/security-auditor.md) | Comprehensive security audit framework |
+| [AI Security Vulnerability Scanner](prompts/security/ai-security-vulnerability-scanner.md) | Automated vulnerability scanning |
 
-### 🧰 Advanced
+### 🔧 MCP Tools (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
-| [MCP Tools](prompts/mcp-tools/) | Build Model Context Protocol servers |
-| [Meta-Prompting](prompts/meta-prompting/) | Improve your own prompts |
-| [Context Engineering](prompts/context-engineering/) | Build perfect codebase context for LLMs |
-| [AI Memory Engineer](prompts/context-engineering/ai-memory-engineer.md) | Structure AI memory for dev workflows (Claude, ChatGPT, Gemini) |
-| [Testing](prompts/testing/) | Test generation & coverage |
+| [MCP Server Builder](prompts/mcp-tools/mcp-server-builder.md) | Build production MCP servers from scratch |
+| [MCP Progressive Disclosure](prompts/mcp-tools/mcp-progressive-disclosure-optimizer.md) | Progressive disclosure patterns for MCP |
+
+### 🎯 Meta-Prompting (2 samples)
+| Prompt | What It Does |
+|--------|-------------|
+| [Prompt Improver](prompts/meta-prompting/prompt-improver.md) | Make your prompts dramatically better |
+| [Frontier Model Prompt Optimizer](prompts/meta-prompting/frontier-model-prompt-optimizer.md) | Optimize prompts for frontier models |
+
+### 📚 Context Engineering (2 samples)
+| Prompt | What It Does |
+|--------|-------------|
+| [Codebase Context Builder](prompts/context-engineering/codebase-context-builder.md) | Build perfect codebase context for LLMs |
+| [AI Memory Engineer](prompts/context-engineering/ai-memory-engineer.md) | Structure AI memory for dev workflows |
+
+### 🏗️ Architecture (1 sample)
+| Prompt | What It Does |
+|--------|-------------|
+| [System Design Architect](prompts/architecture/system-design-architect.md) | Design scalable systems from requirements |
+
+### 🐛 Debugging (1 sample)
+| Prompt | What It Does |
+|--------|-------------|
+| [Bug Detective](prompts/debugging/bug-detective.md) | Root-cause analysis framework |
+
+### 🧪 Testing (1 sample)
+| Prompt | What It Does |
+|--------|-------------|
+| [Test Writer](prompts/testing/test-writer.md) | Test generation & coverage |
+
+### 📊 Database & SQL (1 sample)
+| Prompt | What It Does |
+|--------|-------------|
+| [Query Optimizer](prompts/database-sql/query-optimizer.md) | SQL query optimization |
 
 ---
 
@@ -111,12 +126,13 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 50 samples | **99 production-grade** |
-| **AI Agents** | 1 | **21** |
-| **Vibe Coding** | 6 | **20** |
-| **MCP Tools** | 1 | **8** |
-| **RAG & Context** | 1 | **7** |
+| **Resources** | 20 curated samples | **103 production-grade** |
+| **AI Agents** | 3 | **32** |
+| **Vibe Coding** | 3 | **27** |
+| **MCP Tools** | 2 | **10** |
+| **RAG & Context** | 2 | **8** |
 | **Core Dev** | — | **14** |
+| **Meta-Prompting** | 2 | **5** |
 | **Includes** | Prompts only | Prompts + frameworks + configs + automation |
 | **Updates** | — | Lifetime access |
 | **Price** | Free | **$9 one-time** |

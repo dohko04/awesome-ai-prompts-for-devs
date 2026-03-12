@@ -1,15 +1,11 @@
 # 🐛 Debugging Prompts
 
-Systematic approaches to finding and fixing bugs. Stop guessing, start debugging methodically.
-
-## Prompts in this category
+## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [Bug Detective](bug-detective.md) | Systematic root-cause analysis for any bug |
-| [Error Decoder](error-decoder.md) | Translate cryptic error messages into plain English |
-| [Log Analyzer](log-analyzer.md) | Find the needle in a haystack of logs |
+| [bug detective](bug-detective.md) | Root-cause analysis framework |
 
 ---
 
-[← Back to all prompts](../../README.md)
+> 💡 **Full toolkit:** [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) — 103 production-ready resources.

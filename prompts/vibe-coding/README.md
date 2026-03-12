@@ -1,23 +1,15 @@
 # 🎸 Vibe Coding Prompts
 
-Prompts optimized for AI-assisted coding tools like **Cursor**, **Claude Code**, **Aider**, **Windsurf**, and **GitHub Copilot**. Write better instructions, get better code.
+Prompts optimized for AI-assisted coding tools like **Cursor**, **Claude Code**, **Codex**, and more.
 
 ## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [Cursor Rules Generator](cursor-rules-generator.md) | Generate project-specific `.cursorrules` files for better AI context |
-| [AI Coding Session Kickoff](coding-session-kickoff.md) | Start any AI coding session with the right context and constraints |
-| [Multi-Tool AI Workflow](multi-tool-ai-workflow.md) | Set up an efficient workflow across Claude Code, Cursor, Copilot & Codex |
-| [Claude Code + Codex Power Setup](codex-claude-code-power-setup.md) | Configure the two hottest AI coding tools for maximum output |
-| [AI Convenience Loop Stack Optimizer](ai-convenience-loop-stack.md) | Optimize your stack for maximum AI-assisted productivity |
-| [Codex CLI Agent Workflow Designer](codex-cli-agent-workflow.md) | Design multi-step workflows for CLI-based AI coding agents |
-| [LLM-Friendly Code Pattern Refactorer](llm-friendly-code-patterns.md) | Refactor code so AI tools understand and extend it correctly |
-
-## Why This Matters
-
-Vibe coding is the #1 trend in dev tooling for 2026. But most devs just type "build me X" and get mediocre results. **The prompt IS the product** — better instructions = dramatically better output.
+| [Claude Code Workflow](claude-code-workflow.md) | Full project setup with AGENTS.md, task tracking, multi-file orchestration |
+| [Cursor Rules Generator](cursor-rules-generator.md) | Generate `.cursorrules` tailored to your project |
+| [AI-Native Solo Dev Stack](ai-native-solo-dev-stack.md) | Replace a 10-person team with AI — the 2026 solo dev playbook |
 
 ---
 
-> 💡 **Level up your vibe coding game.** The [AI Dev Toolkit](https://dohko04.gumroad.com/l/ai-dev-toolkit) ($9) includes advanced cursor rules, coding agent configs, project scaffolding prompts, and workflow templates for every major AI coding tool.
+> 💡 **Want all 27 Vibe Coding resources?** The [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) includes Claude Code, Cursor, Codex CLI, JetBrains Air, Gemini Chrome workflows, and more.

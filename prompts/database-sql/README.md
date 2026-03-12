@@ -1,15 +1,11 @@
-# 🗃️ Database & SQL Prompts
+# 📊 Database & SQL Prompts
 
-Design schemas, optimize queries, and plan data migrations with confidence.
-
-## Prompts in this category
+## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [Query Optimizer](query-optimizer.md) | Make slow SQL queries fast |
-| [Schema Designer](schema-designer.md) | Design database schemas from scratch |
-| [Data Migration Planner](data-migration-planner.md) | Plan safe data migrations |
+| [query optimizer](query-optimizer.md) | SQL query optimization |
 
 ---
 
-[← Back to all prompts](../../README.md)
+> 💡 **Full toolkit:** [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) — 103 production-ready resources.

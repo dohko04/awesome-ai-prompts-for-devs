@@ -1,14 +1,11 @@
 # 🧪 Testing Prompts
 
-Write better tests and find edge cases you didn't think of.
-
-## Prompts in this category
+## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [Test Writer](test-writer.md) | Generate comprehensive tests for any code |
-| [Edge Case Finder](edge-case-finder.md) | Discover edge cases and potential failures |
+| [test writer](test-writer.md) | Test generation & coverage |
 
 ---
 
-[← Back to all prompts](../../README.md)
+> 💡 **Full toolkit:** [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) — 103 production-ready resources.

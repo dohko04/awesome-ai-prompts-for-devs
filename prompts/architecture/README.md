@@ -1,14 +1,11 @@
 # 🏗️ Architecture Prompts
 
-Design robust systems and make informed technology decisions.
-
-## Prompts in this category
+## Available Prompts
 
 | Prompt | Description |
 |--------|-------------|
-| [System Design Architect](system-design-architect.md) | Design complete systems from scratch |
-| [Tech Stack Advisor](tech-stack-advisor.md) | Choose the right tools for your project |
+| [system design architect](system-design-architect.md) | Design scalable systems |
 
 ---
 
-[← Back to all prompts](../../README.md)
+> 💡 **Full toolkit:** [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) ($9) — 103 production-ready resources.
