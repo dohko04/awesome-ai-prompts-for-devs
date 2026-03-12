@@ -54,9 +54,9 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-20 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+22 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
-### 🎸 Vibe Coding (5 samples)
+### 🎸 Vibe Coding (6 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Claude Code Workflow](prompts/vibe-coding/claude-code-workflow.md) | Full project setup with AGENTS.md, task tracking, multi-file orchestration |
@@ -64,6 +64,7 @@ and architecture feedback instantly.
 | [Cursor Automations Starter](prompts/vibe-coding/cursor-automations-starter.md) | Automate repetitive Cursor workflows |
 | [Free AI Coding CLI Selector](prompts/vibe-coding/free-ai-coding-cli-selector.md) | Compare free AI coding CLIs — OpenCode, Aider, Copilot CLI & more |
 | [Goose Free AI Coding Setup](prompts/vibe-coding/goose-free-ai-coding-setup.md) | Set up Goose as a free Claude Code alternative |
+| [Xcode Agent Skills Setup](prompts/vibe-coding/xcode-agent-skills-setup.md) | Install & create AI agent skills for Xcode 26.3 + SwiftUI |
 
 ### 🤖 AI Agents (2 samples)
 | Prompt | What It Does |
@@ -71,11 +72,12 @@ and architecture feedback instantly.
 | [Agent Architect](prompts/ai-agents/agent-architect.md) | Architecture patterns for autonomous agents |
 | [Meta-Agent Designer](prompts/ai-agents/meta-agent-designer.md) | Design agents that build other agents |
 
-### 🔍 Code Review (2 samples)
+### 🔍 Code Review (3 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Senior Dev Reviewer](prompts/code-review/senior-dev-reviewer.md) | PR review at senior engineer level |
 | [AI PR Review Agent](prompts/code-review/ai-pr-review-agent.md) | Automated multi-pass PR review pipeline |
+| [AI Code Output Validator](prompts/code-review/ai-code-output-validator.md) | Catch hallucinations & security holes in AI-generated code |
 
 ### 🔒 Security (2 samples)
 | Prompt | What It Does |
@@ -125,7 +127,7 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 20 curated samples | **113 production-grade** |
+| **Resources** | 22 curated samples | **116 production-grade** |
 | **AI Agents** | 3 | **32** |
 | **Vibe Coding** | 5 | **27** |
 | **MCP Tools** | 2 | **10** |
