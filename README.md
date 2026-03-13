@@ -7,12 +7,12 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-113_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
+[![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-121_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
 [![Samples](https://img.shields.io/badge/Free_Samples-20-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
-[**Get the Full AI Engineering Stack (103 resources) →**](https://ai-dev-toolkit-five.vercel.app)
+[**Get the Full AI Engineering Stack (121 resources) →**](https://ai-dev-toolkit-five.vercel.app)
 
 </div>
 
@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-22 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+20 curated free samples across 11 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (6 samples)
 | Prompt | What It Does |
@@ -72,18 +72,23 @@ and architecture feedback instantly.
 | [Agent Architect](prompts/ai-agents/agent-architect.md) | Architecture patterns for autonomous agents |
 | [Meta-Agent Designer](prompts/ai-agents/meta-agent-designer.md) | Design agents that build other agents |
 
-### 🔍 Code Review (3 samples)
+### 🔍 Code Review (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Senior Dev Reviewer](prompts/code-review/senior-dev-reviewer.md) | PR review at senior engineer level |
 | [AI PR Review Agent](prompts/code-review/ai-pr-review-agent.md) | Automated multi-pass PR review pipeline |
-| [AI Code Output Validator](prompts/code-review/ai-code-output-validator.md) | Catch hallucinations & security holes in AI-generated code |
 
 ### 🔒 Security (2 samples)
 | Prompt | What It Does |
 |--------|-------------|
 | [Security Auditor](prompts/security/security-auditor.md) | Comprehensive security audit framework |
 | [AI Security Vulnerability Scanner](prompts/security/ai-security-vulnerability-scanner.md) | Automated vulnerability scanning |
+
+### 📚 Context Engineering (2 samples)
+| Prompt | What It Does |
+|--------|-------------|
+| [Codebase Context Builder](prompts/context-engineering/codebase-context-builder.md) | Build perfect codebase context for LLMs |
+| [AI Memory Engineer](prompts/context-engineering/ai-memory-engineer.md) | Structure AI memory for dev workflows |
 
 ### 🔧 MCP Tools (1 sample)
 | Prompt | What It Does |
@@ -94,12 +99,6 @@ and architecture feedback instantly.
 | Prompt | What It Does |
 |--------|-------------|
 | [Prompt Improver](prompts/meta-prompting/prompt-improver.md) | Make your prompts dramatically better |
-
-### 📚 Context Engineering (2 samples)
-| Prompt | What It Does |
-|--------|-------------|
-| [Codebase Context Builder](prompts/context-engineering/codebase-context-builder.md) | Build perfect codebase context for LLMs |
-| [AI Memory Engineer](prompts/context-engineering/ai-memory-engineer.md) | Structure AI memory for dev workflows |
 
 ### 🏗️ Architecture (1 sample)
 | Prompt | What It Does |
@@ -127,13 +126,13 @@ and architecture feedback instantly.
 
 | | Free (this repo) | [Full Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app) |
 |---|:---:|:---:|
-| **Resources** | 22 curated samples | **116 production-grade** |
-| **AI Agents** | 3 | **32** |
-| **Vibe Coding** | 5 | **27** |
-| **MCP Tools** | 2 | **10** |
+| **Resources** | 20 curated samples | **121 production-grade** |
+| **AI Agents** | 2 | **36** |
+| **Vibe Coding** | 6 | **35** |
+| **MCP Tools** | 1 | **11** |
 | **RAG & Context** | 2 | **8** |
-| **Core Dev** | — | **14** |
-| **Meta-Prompting** | 2 | **5** |
+| **Core Dev** | — | **17** |
+| **Meta-Prompting** | 1 | **5** |
 | **Includes** | Prompts only | Prompts + frameworks + configs + automation |
 | **Updates** | — | Lifetime access |
 | **Price** | Free | **$9 one-time** |
