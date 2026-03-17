@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-93 curated free samples across 13 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+97 curated free samples across 13 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (6 samples)
 | Prompt | What It Does |
