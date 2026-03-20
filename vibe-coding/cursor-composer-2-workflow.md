@@ -1,61 +1,94 @@
-# Cursor Composer 2 — Autonomous Coding Workflow
+# Cursor Composer 2 Coding Workflow (FREE)
 
-> **Get started with Cursor's proprietary coding model that handles lengthy tasks autonomously.**
-> Released March 20, 2026. Code-only model: smaller, cheaper, purpose-built for software engineering.
->
-> 🔗 **[Get the full Cursor Composer 2 Production Pipeline →](https://ai-dev-toolkit-five.vercel.app)**
-> Includes: autonomous task orchestrator, cost optimizer vs Claude/GPT, multi-session coordination, enterprise rollout playbook, and quality gates.
+> Cursor released Composer 2 on March 19, 2026 — the first proprietary, in-house coding model by Anysphere. At $0.50/M tokens it undercuts GPT-5.4 mini and Claude Sonnet while matching their coding benchmarks. This is the first time an IDE company trained its own model.
+
+## What's New
+- **Composer 2**: purpose-built coding model, trained in-house by Anysphere
+- **$0.50/M input tokens** — 33% cheaper than GPT-5.4 mini, 83% cheaper than Sonnet 4.6
+- **Code-only training** — no chat fluff, pure code understanding
+- **Native Cursor integration** — no API round-trip latency
+- **SWE-bench competitive** with frontier models at fraction of cost
+
+## Quick Setup
+
+```bash
+# 1. Update Cursor to latest (requires v0.48+)
+# Settings → About → Check for Updates
+
+# 2. Enable Composer 2 as default model
+# Settings → Models → Set "Composer 2" as primary
+# Keep GPT-5.4 or Claude as fallback for non-coding tasks
+
+# 3. Verify it's active
+# Open Composer (Cmd+K) → model indicator should show "Composer 2"
+```
+
+## When to Use Composer 2 vs Others
+
+```yaml
+# Task routing guide
+use_composer_2:
+  - Inline code completions (fastest, cheapest)
+  - File-level edits and refactors
+  - Multi-file changes within a project
+  - Test generation
+  - Code review suggestions
+  cost: "$0.50/M tokens"
+
+use_gpt_5_4_mini:
+  - Tool use / function calling
+  - Multi-modal tasks (images + code)
+  - Web search integration
+  - Tasks needing 400K context
+  cost: "$0.75/M tokens"
+
+use_claude_sonnet_4_6:
+  - Complex architecture decisions
+  - 1M context window needs
+  - Long document analysis + code
+  - Nuanced reasoning about tradeoffs
+  cost: "$3/M tokens"
+
+use_claude_opus_4_6:
+  - Hardest coding problems
+  - Multi-step agent workflows
+  - When quality > cost
+  cost: "$15/M tokens"
+```
+
+## Cost Comparison (Real Example)
+
+```markdown
+## Scenario: 500 coding tasks/day, avg 2K input + 1K output tokens each
+
+| Model | Daily Input Cost | Daily Output Cost | Total/Day | Monthly |
+|-------|-----------------|-------------------|-----------|---------|
+| Composer 2 | $0.50 | $1.50 | $2.00 | $60 |
+| GPT-5.4 mini | $0.75 | $4.50 | $5.25 | $158 |
+| Claude Sonnet 4.6 | $3.00 | $15.00 | $18.00 | $540 |
+
+## Savings with Composer 2:
+# vs GPT-5.4 mini: 62% cheaper
+# vs Claude Sonnet: 89% cheaper
+```
+
+## What This Means for Developers
+
+The IDE-as-model-provider era has begun. Cursor is no longer just a UI layer — it's a model company. This changes the competitive landscape:
+
+1. **IDE lock-in increases** — Composer 2 only works in Cursor
+2. **Cost pressure on OpenAI/Anthropic** — coding-specific models are cheaper
+3. **Quality-per-dollar improves** — specialized beats general for coding
+
+## Limitations of This Free Guide
+
+The **PRO version** ($9) includes:
+- **Multi-model routing engine** — auto-switch between Composer 2, GPT-5.4 mini, and Claude based on task complexity
+- **Cost tracking dashboard** — real-time spend monitoring across all models
+- **A/B quality testing framework** — measure Composer 2 vs alternatives on your codebase
+- **Team rollout playbook** — standardize model selection across your org
+- **Migration scripts** — move from pure Claude/GPT workflows to hybrid Composer 2
 
 ---
 
-## What Is Composer 2?
-
-Cursor's first proprietary AI model, trained **exclusively on code**. Unlike general-purpose models (GPT-5.4, Claude Opus), Composer 2 is:
-- **Smaller & cheaper** — code-only training = fewer parameters needed
-- **Autonomous** — handles multi-file, multi-step coding tasks end-to-end
-- **Purpose-built** — "It won't help you do your taxes. It won't write poems." (Aman Sanger, co-founder)
-
-## Quick Start Prompt
-
-```
-You are an autonomous coding agent using Cursor Composer 2.
-
-TASK: {{describe_your_task}}
-
-WORKFLOW:
-1. ANALYZE the codebase structure and dependencies
-2. PLAN the implementation (list files to create/modify)
-3. IMPLEMENT changes file by file
-4. VERIFY by reviewing your own output for:
-   - Type safety
-   - Edge cases
-   - Consistency with existing patterns
-5. SUMMARIZE what you changed and why
-
-RULES:
-- Follow existing code conventions (check adjacent files)
-- Write tests for new logic
-- Keep commits atomic (one concern per change)
-- If stuck >2 iterations on same issue → flag for human review
-```
-
-## When to Use Composer 2 vs Other Models
-
-| Task Type | Best Model | Why |
-|-----------|-----------|-----|
-| Multi-file refactoring | **Composer 2** | Code-native, cheaper for long tasks |
-| Architecture decisions | Claude Opus 4.6 | Better reasoning about trade-offs |
-| Quick completions | GPT-5.4 Mini | Fastest, cheapest for simple edits |
-| Documentation | Claude Sonnet 4.6 | Better prose, longer context |
-
-## Limitations
-
-- **Code only** — no general knowledge, no creative writing
-- **New model** — less battle-tested than Claude/GPT in production
-- **Cursor-only** — not available via API for other IDEs (yet)
-
----
-
-> 💡 **Want the full production pipeline?** The PRO version includes autonomous task orchestration, cost comparison engine, multi-session coordination patterns, quality gates with rollback, and enterprise rollout playbook for 10→500 devs.
->
-> **[→ Get AI Dev Toolkit ($9)](https://ai-dev-toolkit-five.vercel.app)**
+**🔥 Get the full AI Dev Toolkit (250+ pro resources) → [ai-dev-toolkit-five.vercel.app](https://ai-dev-toolkit-five.vercel.app) — $9 one-time**
