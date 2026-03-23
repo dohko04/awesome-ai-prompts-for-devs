@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=for-the-badge&logo=github&color=yellow)](https://github.com/dohko04/awesome-ai-prompts-for-devs/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Full Toolkit](https://img.shields.io/badge/⚡_Full_Toolkit-266_Pro_Resources_→_$9-blue?style=for-the-badge)](https://ai-dev-toolkit-five.vercel.app)
-[![Samples](https://img.shields.io/badge/Free_Samples-98-orange?style=for-the-badge)](#-whats-inside)
+[![Samples](https://img.shields.io/badge/Free_Samples-168-orange?style=for-the-badge)](#-whats-inside)
 
 *Works with Claude · ChatGPT · Gemini · Cursor · Codex · Any LLM*
 
@@ -54,7 +54,7 @@ and architecture feedback instantly.
 
 ## 📂 What's Inside
 
-98 curated free samples across 13 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
+168 curated free samples across 7 categories. Each one is **complete and ready to use** — not a snippet, a full workflow.
 
 ### 🎸 Vibe Coding (6 samples)
 | Prompt | What It Does |
